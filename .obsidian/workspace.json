@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "39ada9aa6a235edf",
+        "id": "299ce97bc0362d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "01e0f71a7f1477cd",
+            "id": "8b6bb4ae18ed5b13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart.md",
+                "file": "Nota Diaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "c-shart"
+              "title": "Nota Diaria"
             }
           }
         ]
@@ -224,8 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01e0f71a7f1477cd",
+  "active": "8b6bb4ae18ed5b13",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart.md",
+    "Notes/Programación/Lenguaje/c-shart/Frameworks/Frameworks.md",
     "Notes/Programación/Lenguaje/Lenguajes.md",
     "profesionalizacion/Chat.md",
     "README.md",
@@ -253,8 +255,6 @@
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Colecciones.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Concurrencia y asincronía.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Biblioteca Estándar.md",
-    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Tipos definidos por el usuario.md",
-    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Sin título.md",
     "Notes/Programación/Lenguaje/Java/Frameworks",
     "Notes/Programación/Lenguaje/Java/Fundamentos",
     "Notes/Programación/Lenguaje/Java/Herramientas",

@@ -1,4 +1,3 @@
-- [ ] 
 + [[Frameworks]]
 + [[Herramientas]]
 + [[Biblioteca Estándar]]
