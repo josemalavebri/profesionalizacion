@@ -1,0 +1,7 @@
+- [[Program.cs y el arranque de la aplicación]]
+- [[Startup.cs y configuración del pipeline HTTP]] (en versiones anteriores)
+- [[Controladores API y rutas]]
+- [[Modelos de datos y DTOs]]
+- [[Inyección de dependencias (DI)]]
+- [[Middleware personalizado]]
+- [[Configuración con appsettings.json]]

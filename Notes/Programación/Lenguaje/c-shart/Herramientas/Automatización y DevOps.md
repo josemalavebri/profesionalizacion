@@ -1,0 +1,5 @@
+- [[c-shart - Azure DevOps]]
+- [[c-shart - GitHub Actions con .NET]]
+- [[c-shart - CI/CD para proyectos en .NET]]
+- [[c-shart - Docker con aplicaciones .NET]]
+- [[c-shart - Publicación con dotnet publish]]

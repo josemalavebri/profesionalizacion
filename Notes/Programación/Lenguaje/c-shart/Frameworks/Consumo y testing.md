@@ -1,0 +1,3 @@
+- [[Consumo de APIs con Postman]]
+- [[Pruebas automatizadas de endpoints]]
+- [[Mocking de dependencias en pruebas]]

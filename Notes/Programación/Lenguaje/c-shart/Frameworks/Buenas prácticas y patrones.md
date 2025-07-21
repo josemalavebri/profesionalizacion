@@ -1,0 +1,6 @@
+- [[Separación de capas (Controller, Service, Repository)]]
+- [[Manejo de errores y excepciones]]
+- [[Logging con ILogger y Serilog]]
+- [[Automapper para mapeo entre modelos]]
+- [[Swagger para documentación de la API]]
+- [[Testing de APIs con xUnit y pruebas de integración]]

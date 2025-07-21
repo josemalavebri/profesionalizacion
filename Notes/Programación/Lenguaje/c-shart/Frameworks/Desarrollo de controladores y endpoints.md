@@ -1,0 +1,4 @@
+- [[Atributos como [HttpGet], [HttpPost], [Route], [FromBody], [FromQuery]]]
+- [[Validación de modelos con Data Annotations]]
+- [[Respuesta de una API (Status codes, IActionResult, ActionResult<T>)]]
+- [[Versionado de APIs]]

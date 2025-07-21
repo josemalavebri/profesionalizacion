@@ -1,0 +1,4 @@
+- [[Autenticación con JWT (JSON Web Token)]]
+- [[Autorización con políticas y roles]]
+- [[CORS en ASP.NET Core]]
+- [[Rate limiting y protección contra abuso]]

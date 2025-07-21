@@ -1,0 +1,5 @@
+- [[c-shart - Operadores aritméticos]]
+- [[c-shart - Operadores de comparación]]
+- [[c-shart - Operadores lógicos]]
+- [[c-shart - Operadores de asignación]]
+- [[c-shart - Operador ternario]]
