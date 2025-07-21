@@ -1,0 +1,12 @@
+{
+  "properties": false,
+  "tag-wrangler:tag-pane": false,
+  "editor": false,
+  "tab-header": false,
+  "bookmarks": false,
+  "outline": false,
+  "graph": false,
+  "juggl-plugin": false,
+  "preview": true,
+  "file-explorer": false
+}

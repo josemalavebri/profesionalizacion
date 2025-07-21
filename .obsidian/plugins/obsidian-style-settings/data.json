@@ -1,0 +1,20 @@
+{
+  "id@@h1-underline": false,
+  "id@@h2-underline": false,
+  "id@@h-color-theme@@light": "#EFEFEF",
+  "id@@h-color-theme@@dark": "#D8D8D8",
+  "id@@headers-one-color": false,
+  "id@@h1-color-theme@@light": "#E1F5FE",
+  "id@@h1-color-theme@@dark": "#E1F5FE",
+  "id@@h2-color-theme@@light": "#E1F5FE",
+  "id@@h2-color-theme@@dark": "#E1F5FE",
+  "id@@h3-color-theme@@light": "#81D4FA",
+  "id@@h3-color-theme@@dark": "#81D4FA",
+  "id@@h4-color-theme@@light": "#81D4C5",
+  "id@@h4-color-theme@@dark": "#81D4C5",
+  "id@@h5-color-theme@@light": "#81D4C5",
+  "id@@h5-color-theme@@dark": "#81D4C5",
+  "id@@h6-color-theme@@light": "#81D4C5",
+  "id@@h6-color-theme@@dark": "#81D4C5",
+  "id@@callout-on": true
+}

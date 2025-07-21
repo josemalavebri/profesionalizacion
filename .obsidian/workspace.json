@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ada9aa6a235edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e0f71a7f1477cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "profesionalizacion/Chat.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chat"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47088143b992b272",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a45956232e7e014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8372e0802167193c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0ff77963d576c336",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "32db22ac495393a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tipo-principal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "83874aa21cfa0e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0123ad7ffbcf9280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0ee28e02d2f0f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled Kanban 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Untitled Kanban 1"
+            }
+          },
+          {
+            "id": "f5e4d570845c969c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "1fe8da8d514040ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 1.19090909090909,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 3.31280148423006,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 3.434223988368812,
+                  "close": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "f226a747aaf1b6e3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "485ccbfd8961c79a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "ee98001bb41cab81",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "b329000adbd1d2f1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Abrir nota al azar": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "01e0f71a7f1477cd",
+  "lastOpenFiles": [
+    "profesionalizacion/Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
+    "profesionalizacion/Notes/hoy.md",
+    "profesionalizacion/Repasos/Estudios Largos/Estudios Anuales.md",
+    "Central Main.md",
+    "Nota Diaria.md",
+    "Repasos/Sin nombre 1",
+    "Repasos/Sin nombre",
+    "profesionalizacion",
+    "APLICACION.md",
+    "Busquedas/Temas por investigar.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Estructuras (struct).md",
+    "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
+    "Repasos/Estudios Cortos/Estudios Semanales.md",
+    "Notes/hoy.md",
+    "Busquedas/Temarios.md",
+    "Busquedas/Etiquetas.md",
+    "Busquedas/Estudios.md",
+    "Busquedas/Archivos arreglados.md",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/hola.md",
+    "Repasos/Estudios Cortos/Estudios Diarios.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Tipos definidos por el usuario.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/c-shart - Tipos de datos.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Fundamentos básicos de tipos y almacenamiento.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Fundamentos.md",
+    "Notes/Programación/Lenguaje/c-shart.md",
+    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Biblioteca Estándar.md",
+    "Notes/Programación/Lenguaje/Lenguajes.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Sin título.md",
+    "Busquedas/Lenguajes",
+    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas/Bibliotecas Externas.md",
+    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas",
+    "Entrada y salida (I",
+    "Notes/Programación/Lenguaje/Java/Herramientas",
+    "Notes/Programación/Lenguaje/Java/Fundamentos",
+    "Notes/Programación/Lenguaje/Java/Frameworks",
+    "Notes/Programación/Lenguaje/Java/Biblioteca Estandar",
+    "ANEXOS/Pasted image 20250715090802.png",
+    "ANEXOS/Pasted image 20250715090745.png",
+    "ANEXOS/Pasted image 20250715090702.png",
+    "ANEXOS/Pasted image 20250715090649.png",
+    "ANEXOS/Pasted image 20250715090632.png",
+    "ANEXOS/Pasted image 20250715090615.png",
+    "Estudios.canvas",
+    "ANEXOS/Pasted image 20240623095357.png",
+    "ANEXOS/Pasted image 20240710114530.png",
+    "ANEXOS/Pasted image 20240813165606.png",
+    "ANEXOS/uml-class-diagram-relationships.webp",
+    "Sin Orden/Sin título.canvas",
+    "Programacion/Sin título.canvas",
+    "Sin título 1.canvas",
+    "Ordenar/Sin título.canvas",
+    "Programacion/Ordenar/Sin título.canvas",
+    "Conceptos/Sin título.canvas",
+    "Programación/Sin título.canvas"
+  ]
+}

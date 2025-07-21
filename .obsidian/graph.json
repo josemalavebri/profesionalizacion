@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Notes/Programación/Lenguaje/c-shart  ",
+      "color": {
+        "a": 1,
+        "rgb": 6902496
+      }
+    },
+    {
+      "query": "path:Notes/Programación  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Notes/Programación/Lenguaje  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.284,
+  "lineSizeMultiplier": 1.56327272727273,
+  "collapse-forces": false,
+  "centerStrength": 0.688014842300557,
+  "repelStrength": 16.0415584415584,
+  "linkStrength": 0.635844155844156,
+  "linkDistance": 186,
+  "scale": 0.16880058451970426,
+  "close": false
+}

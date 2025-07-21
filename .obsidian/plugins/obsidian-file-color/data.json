@@ -1,0 +1,74 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "xkLr6PBza9Cm2VcofcA5Z",
+      "name": "",
+      "value": "#309c6a"
+    },
+    {
+      "id": "duJKqqetbY-kxLDOLsFU4",
+      "name": "",
+      "value": "#ac47ff"
+    },
+    {
+      "id": "JpYzfp6gkSn7xKkT3eURb",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "yasZ_AlX3_vKNA7-50-OK",
+      "name": "",
+      "value": "#d7c028"
+    },
+    {
+      "id": "IObiGjfVwelr-29fTii6J",
+      "name": "",
+      "value": "#ba4040"
+    },
+    {
+      "id": "eBGvlZczIkiyCmHQ56l57",
+      "name": "",
+      "value": "#3c2eff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "ANEXOS",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Busquedas",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Plantillas",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Repasos",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Nota Diaria.md",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Chat.md",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Central Main.md",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Notes",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    },
+    {
+      "path": "Busquedas/Lenguajes",
+      "color": "JpYzfp6gkSn7xKkT3eURb"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb7e2c0b45e832ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5bb1eb6a1265d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programacion/Comandos de vsc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos de vsc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47088143b992b272",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a45956232e7e014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8372e0802167193c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "0ff77963d576c336",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "32db22ac495393a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#lang-cshart",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "83874aa21cfa0e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0123ad7ffbcf9280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0ee28e02d2f0f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled Kanban 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Untitled Kanban 1"
+            }
+          },
+          {
+            "id": "f5e4d570845c969c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "1fe8da8d514040ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": false,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.3,
+                  "nodeSizeMultiplier": 1.19090909090909,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 3.31280148423006,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 3.434223988368812,
+                  "close": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
+      "homepage:Open homepage": false,
+      "random-note:Abrir nota al azar": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "switcher:Abrir selector rápido": false,
+      "templater-obsidian:Templater": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "c5bb1eb6a1265d2b",
+  "lastOpenFiles": [
+    "Nota Diaria.md",
+    "Programacion/Comandos de vsc.md",
+    "Fluent.md",
+    "Programacion/Nodos vacios.md",
+    "akdsjfklasdj.md",
+    "Programacion/Generar aplicacion windows forms empaquetada.md",
+    "Programacion/Crear repo privado y conectarlo con GitHub.md",
+    "Programacion/Git.md",
+    "Programacion/Crear Rama.md",
+    "Programacion/Link Remoto URL.md",
+    "Estudios/Estudios Semanales.md",
+    "Busquedas/Estudios.md",
+    "Central Main.md",
+    "Chat.md",
+    "Programacion/C.md",
+    "Estudios/Estudios Largos/Estudios Semestrales.md",
+    "Estudios/Estudios Diarios.md",
+    "Programacion/Sin título 5.md",
+    "Programacion/DP-Respuestas a Preguntas Comunes.md",
+    "Programacion/El libro negro del programador.md",
+    "Plantillas/Plantilla problema.md",
+    "Busquedas/Archivos arreglados.md",
+    "Programacion/Temario-Entity Framework.md",
+    "Programacion/Tipos de Clases.md",
+    "Programacion/EFC-Consultas parametrizadas.md",
+    "Programacion/[datos.md",
+    "Sin título.canvas",
+    "Programacion.rar",
+    "Estudios.canvas",
+    "Proyectos/Cita Medica",
+    "Proyectos",
+    "Estudios",
+    "Estudios/Estudios Largos",
+    "ANEXOS/Pasted image 20240623095357.png",
+    "ANEXOS/Pasted image 20240710114530.png",
+    "ANEXOS/Pasted image 20240813165606.png",
+    "ANEXOS/uml-class-diagram-relationships.webp",
+    "Sin Orden/Sin título.canvas",
+    "Sin Orden",
+    "Programacion/ANEXOS/Pasted image 20250506170933.png",
+    "Programacion/ANEXOS/Pasted image 20250506170518.png",
+    "Programacion/ANEXOS/Pasted image 20250506170004.png",
+    "Programacion/ANEXOS/Pasted image 20250506165953.png",
+    "Programacion/ANEXOS/Pasted image 20250429163458.png",
+    "Programacion/ANEXOS/Pasted image 20250429162504.png",
+    "Programacion/ANEXOS",
+    "Programacion/Infrastructura/Arquitectura",
+    "Programacion/Infrastructura",
+    "Programacion/Movil/ANEXOS",
+    "Programacion/Sin título.canvas",
+    "Sin título 1.canvas",
+    "Ordenar/Sin título.canvas",
+    "Programacion/Ordenar/Sin título.canvas",
+    "Conceptos/Sin título.canvas",
+    "Programación/Sin título.canvas"
+  ]
+}
