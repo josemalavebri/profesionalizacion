@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Bibliotecas Externas.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bibliotecas Externas"
+              "title": "Fundamentos"
             }
           }
         ]
@@ -226,6 +226,12 @@
   },
   "active": "8372e0802167193c",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
+    "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje.md",
+    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
+    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas/Acceso a datos.md",
+    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas/Autenticación y seguridad.md",
+    "Notes/Programación/Bibliotecas Externas.md",
     "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
     "Repasos/Estudios Cortos 1/Estudios Semanales Pasados.md",
@@ -233,7 +239,7 @@
     "Repasos/Estudios Cortos 1",
     "Plantillas/Plantilla problemática.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
-    "Notes/Programación/Lenguaje/c-shart/Fundamentos/Estructuras (struct).md",
+    "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "README.md",
     "APLICACION.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
@@ -248,13 +254,8 @@
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/DateTime vs TimeSpan en C.md",
     "Notes/Programación/Lenguaje/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Buenas prácticas en nombramiento de clases.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Chequeo de permisos con HashSet.md",
-    "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje/Ejercicio Nivel 2 para Practicar Booleanos.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/All de LINQ.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/List vs HashSet en C.md",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
-    "Notes/hoy.md",
     "Repasos/Estudios Largos",
     "Repasos/Estudios Cortos",
     "Repasos",

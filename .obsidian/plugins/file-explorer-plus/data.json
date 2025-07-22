@@ -43,7 +43,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Fundamentos/Fundamentos.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
         "patternType": "STRICT"
       },
       {
@@ -57,7 +57,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Biblioteca Estándar.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
         "patternType": "STRICT"
       },
       {
@@ -71,7 +71,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Herramientas/Herramientas.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
         "patternType": "STRICT"
       },
       {
@@ -85,7 +85,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje/Practicas en el lenguaje.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje.md",
         "patternType": "STRICT"
       }
     ],
