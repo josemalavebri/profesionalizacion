@@ -47,8 +47,7 @@
               "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f65c9ef3aa277d95",
+  "active": "ae8731687f53dc9a",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/Bitwise OR en enums con Flags.md",
