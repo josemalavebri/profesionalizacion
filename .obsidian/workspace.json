@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb7cd949d70f2fb8",
+        "id": "1b34828dcc38bc09",
         "type": "tabs",
         "children": [
           {
-            "id": "41973cfaf8e5b713",
+            "id": "21d4c1e0d2c0f850",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41973cfaf8e5b713",
+  "active": "21d4c1e0d2c0f850",
   "lastOpenFiles": [
-    "README.md",
     "Nota Diaria.md",
+    "README.md",
     "Notes/Programación/Lenguaje/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Frameworks/Frameworks.md",
     "Notes/Programación/Lenguaje/Lenguajes.md",
