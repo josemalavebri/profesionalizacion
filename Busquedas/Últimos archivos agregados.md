@@ -1,6 +1,6 @@
 
 ```dataviewjs
-const folder = "Programacion";
+const folder = "Notes";
 const hoy = new Date();
 const haceUnMes = new Date();
 haceUnMes.setMonth(hoy.getMonth() - 1);
