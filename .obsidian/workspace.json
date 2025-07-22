@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Busquedas/Estudios.md",
+                "file": "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Estudios"
+              "title": "Estudios Semanales Pasados"
             }
           }
         ]
@@ -224,10 +224,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c9b413fc259e691",
+  "active": "8372e0802167193c",
   "lastOpenFiles": [
-    "Busquedas/Etiquetas.md",
+    "Repasos/Estudios Cortos/Estudios Semanales.md",
+    "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
+    "README.md",
+    "APLICACION.md",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Busquedas/Estudios.md",
+    "Busquedas/Etiquetas.md",
     "Busquedas/Temarios.md",
     "Busquedas/Temas por investigar.md",
     "Busquedas/Últimos archivos agregados.md",
@@ -250,10 +255,6 @@
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Diferencia entre HashSet y Array.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Expresión lambda en LINQ.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Método Contains en colecciones.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/params en métodos de C.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Permisos en programación C.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Validación de pertenencia con All y Contains.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Bitwise OR en enums con Flags.md",
     "Repasos/Estudios Largos",
     "Repasos/Estudios Cortos",
     "Repasos",
@@ -262,7 +263,6 @@
     "Notes/Programación/Lenguaje/Java/Herramientas",
     "Notes/Programación/Lenguaje/Java/Biblioteca Estandar",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar",
-    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "ANEXOS/Pasted image 20250715090802.png",
     "ANEXOS/Pasted image 20250715090745.png",
     "ANEXOS/Pasted image 20250715090702.png",
