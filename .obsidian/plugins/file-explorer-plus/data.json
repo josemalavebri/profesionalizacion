@@ -73,6 +73,20 @@
         "type": "FILES",
         "pattern": "Notes/Programación/Lenguaje/c-shart/Herramientas/Herramientas.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Conocimientos varios.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje/Practicas en el lenguaje.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
