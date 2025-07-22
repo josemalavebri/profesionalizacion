@@ -36,9 +36,19 @@
               "icon": "lucide-file",
               "title": "Conocimientos varios"
             }
+          },
+          {
+            "id": "f65c9ef3aa277d95",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,11 +250,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8725cd38cf42614b",
+  "active": "f65c9ef3aa277d95",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/Permisos en programación C.md",
     "Notes/Programación/Lenguaje/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/Bitwise OR en enums con Flags.md",
+    "Notes/Programación/Lenguaje/Buenas prácticas en nombramiento de clases.md",
+    "Notes/Programación/Lenguaje/DateTime vs TimeSpan en C.md",
+    "Notes/Programación/Lenguaje/Enum con Flags en C.md",
     "Notes/Programación/Lenguaje/List vs HashSet en C.md",
+    "Notes/Programación/Lenguaje/Permisos en programación C.md",
     "Notes/Programación/Lenguaje/c-shart.md",
     "Nota Diaria.md",
     "README.md",
@@ -267,10 +281,6 @@
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Texto y cadenas.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Seguridad y criptografía.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Reflexión y metadatos.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Redes y comunicación.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Fechas y tiempo.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Expresiones y compilación dinámica.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Datos y serialización.md",
     "Notes/Programación/Lenguaje/Java/Frameworks",
     "Notes/Programación/Lenguaje/Java/Fundamentos",
     "Notes/Programación/Lenguaje/Java/Herramientas",

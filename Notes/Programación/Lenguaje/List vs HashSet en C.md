@@ -1,3 +1,4 @@
 
-- Los nombres de clases deben ir en **singular** si representan una entidad individual (ej: `Permiso`).
-- Pueden ir en **plural** si representan un conjunto de flags o propiedades booleanas (ej: `Permisos`).
+- `List<T>` permite duplicados. Útil si el orden y los elementos repetidos importan.
+- `HashSet<T>` **no permite duplicados** y es más eficiente para búsquedas y validaciones de existencia.
+- Ideal para cosas como días de trabajo donde no debe haber días repetidos.
