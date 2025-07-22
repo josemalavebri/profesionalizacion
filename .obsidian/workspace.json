@@ -32,8 +32,7 @@
               "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8372e0802167193c",
+  "active": "5c9b413fc259e691",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
