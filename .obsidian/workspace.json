@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "de43682288a827c5",
+        "id": "b068fb5cf1b9c09e",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8731687f53dc9a",
+            "id": "5c9b413fc259e691",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "0a8fb30646f7e0f3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Nota Diaria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota Diaria"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a8fb30646f7e0f3",
+  "active": "5c9b413fc259e691",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/DateTime vs TimeSpan en C.md",
     "Notes/Programación/Lenguaje/c-shart.md",
