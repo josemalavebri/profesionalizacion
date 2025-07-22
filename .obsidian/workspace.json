@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Notes/Programación/Lenguaje/c-shart.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "c-shart"
+            }
+          },
+          {
+            "id": "8725cd38cf42614b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Programación/Lenguaje/Conocimientos varios.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Conocimientos varios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,11 +240,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae8731687f53dc9a",
+  "active": "8725cd38cf42614b",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/Permisos en programación C.md",
+    "Notes/Programación/Lenguaje/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/List vs HashSet en C.md",
+    "Notes/Programación/Lenguaje/c-shart.md",
     "Nota Diaria.md",
     "README.md",
-    "Notes/Programación/Lenguaje/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Frameworks/Frameworks.md",
     "Notes/Programación/Lenguaje/Lenguajes.md",
     "profesionalizacion/Chat.md",
@@ -252,9 +271,6 @@
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Fechas y tiempo.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Expresiones y compilación dinámica.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Datos y serialización.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Colecciones.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Concurrencia y asincronía.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Biblioteca Estándar.md",
     "Notes/Programación/Lenguaje/Java/Frameworks",
     "Notes/Programación/Lenguaje/Java/Fundamentos",
     "Notes/Programación/Lenguaje/Java/Herramientas",
