@@ -6,20 +6,12 @@
 + [[Bitwise OR en enums con Flags]]
 + [[Validación de pertenencia con All y Contains]]  
 - [[HashSet en C#]] 
-    
-    
 - [[params en métodos de C#]]  
 - [[Método Contains en colecciones]]
+- [[Expresión lambda en LINQ]]  
+- [[All de LINQ]]  
+- [[Diferencia entre HashSet y Array]]  
     
-    
-- `[[Expresión lambda en LINQ]]`  
-    Sintaxis abreviada para definir funciones anónimas. En `p => permisos.Contains(p)`, se usa como una función que recibe `p` y devuelve si está en `permisos`. Es clave para recorrer y evaluar colecciones de forma declarativa.
-    
-- `[[All de LINQ]]`  
-    Método que verifica si **todos** los elementos de una colección cumplen con una condición. En el contexto de permisos, sirve para validar que todos los permisos requeridos están en el conjunto actual del usuario.
-    
-- `[[Diferencia entre HashSet y Array]]`  
-    Un `HashSet` es más eficiente para búsquedas y no permite duplicados. Un `array` es una estructura lineal con posiciones fijas y puede tener elementos repetidos. Ambos se pueden recorrer y consultar, pero con diferentes rendimientos y comportamientos.
     
 - `[[Chequeo de permisos con HashSet]]`  
     Estrategia en la que se define un conjunto de permisos actuales (`HashSet`) y se comparan contra un conjunto de permisos requeridos, usando `All` para asegurar que todos estén presentes. Representa una validación completa de roles o accesos.

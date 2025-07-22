@@ -1,0 +1,1 @@
+Sintaxis abreviada para definir funciones anónimas. En `p => permisos.Contains(p)`, se usa como una función que recibe `p` y devuelve si está en `permisos`. Es clave para recorrer y evaluar colecciones de forma declarativa.
