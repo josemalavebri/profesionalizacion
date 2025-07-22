@@ -1,0 +1,1 @@
+Permiten crear funciones flexibles, donde se puede pasar cualquier cantidad de valores. `params` lo logra encapsulando los argumentos en un array, permitiendo escribir llamadas como `tienePermisos(p1, p2, p3)` sin armar manualmente una colección.
