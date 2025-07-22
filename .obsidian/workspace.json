@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bb31e5bbcfa24262",
+        "id": "fb7cd949d70f2fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "3378b9c494a422ec",
+            "id": "41973cfaf8e5b713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Nota Diaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nota Diaria"
             }
           }
         ]
@@ -224,14 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3378b9c494a422ec",
+  "active": "41973cfaf8e5b713",
   "lastOpenFiles": [
+    "README.md",
     "Nota Diaria.md",
     "Notes/Programación/Lenguaje/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Frameworks/Frameworks.md",
     "Notes/Programación/Lenguaje/Lenguajes.md",
     "profesionalizacion/Chat.md",
-    "README.md",
     "Chat.md",
     "Central Main.md",
     "APLICACION.md",
