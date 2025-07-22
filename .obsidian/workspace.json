@@ -13,16 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "Bibliotecas Externas"
+            }
+          },
+          {
+            "id": "d58f0b9c04674aae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,19 +235,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbf60bfdd3688ded",
+  "active": "d58f0b9c04674aae",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
+    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
+    "Nota Diaria.md",
+    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
     "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
-    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
     "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
     "Repasos/Estudios Cortos 1/Estudios Semanales Pasados.md",
@@ -253,7 +265,6 @@
     "Busquedas/Temarios.md",
     "Busquedas/Temas por investigar.md",
     "Busquedas/Últimos archivos agregados.md",
-    "Notes/Programación/Lenguaje/c-shart/HashSet en C.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
     "Repasos/Estudios Largos",
