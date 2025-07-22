@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/Conocimientos varios.md",
+                "file": "Notes/Programación/Lenguaje/Permisos en programación C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Conocimientos varios"
+              "title": "Permisos en programación C"
             }
           },
           {
@@ -268,10 +268,11 @@
   },
   "active": "8725cd38cf42614b",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/Validación de pertenencia con All y Contains.md",
     "Notes/Programación/Lenguaje/Practicas en el lenguaje.md",
     "Notes/Programación/Lenguaje/Ejercicio Nivel 2 para Practicar Booleanos.md",
     "Notes/Programación/Lenguaje/c-shart.md",
-    "Notes/Programación/Lenguaje/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/Bitwise OR en enums con Flags.md",
     "Notes/Programación/Lenguaje/Buenas prácticas en nombramiento de clases.md",
     "Notes/Programación/Lenguaje/DateTime vs TimeSpan en C.md",
@@ -296,7 +297,6 @@
     "Repasos/Estudios Largos",
     "Repasos/Estudios Cortos",
     "Repasos",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estandar/Texto y cadenas.md",
     "Notes/Programación/Lenguaje/Java/Frameworks",
     "Notes/Programación/Lenguaje/Java/Fundamentos",
     "Notes/Programación/Lenguaje/Java/Herramientas",

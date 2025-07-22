@@ -1,0 +1,1 @@
+Permite verificar si todos los elementos de una colección están presentes en otra. Útil para validar permisos, roles o condiciones de forma compacta.
