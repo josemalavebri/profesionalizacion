@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
+                "file": "Notes/Programación/Lenguaje/c-shart.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentos"
+              "title": "c-shart"
             }
           }
         ]
@@ -226,11 +226,15 @@
   },
   "active": "8372e0802167193c",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/Java/Java.md",
+    "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
+    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
-    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas/Acceso a datos.md",
-    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas/Autenticación y seguridad.md",
+    "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
     "Notes/Programación/Bibliotecas Externas.md",
     "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
@@ -248,12 +252,8 @@
     "Busquedas/Temarios.md",
     "Busquedas/Temas por investigar.md",
     "Busquedas/Últimos archivos agregados.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/HashSet en C.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/c-shart/HashSet en C.md",
     "Nota Diaria.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/DateTime vs TimeSpan en C.md",
-    "Notes/Programación/Lenguaje/c-shart.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Buenas prácticas en nombramiento de clases.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
     "Repasos/Estudios Largos",

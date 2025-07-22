@@ -50,7 +50,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Frameworks/Frameworks.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
         "patternType": "STRICT"
       },
       {
@@ -78,7 +78,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/Conocimientos varios.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
         "patternType": "STRICT"
       },
       {
