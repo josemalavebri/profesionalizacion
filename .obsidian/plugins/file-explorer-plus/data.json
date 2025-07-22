@@ -64,7 +64,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas/Bibliotecas Externas.md",
+        "pattern": "Notes/Programación/Bibliotecas Externas.md",
         "patternType": "STRICT"
       },
       {
