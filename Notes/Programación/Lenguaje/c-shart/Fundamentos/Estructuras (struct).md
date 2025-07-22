@@ -11,7 +11,7 @@
 + Tienen constructores pero
 	+ No se puede definir uno sin parámetro
 		+ El compilador lo genera por defecto
-+ Pueden tener:
++ Su cuerpo puede estar compuesto de:
 	+ Campos
 	+ Propiedades
 	+ Métodos
@@ -19,7 +19,6 @@
 + Se copian por valor, no por referencia
 + Son inmutables por convención aunque
 	+ No es obligatorio
-
 ## Analogía
 
 > *Usar un `struct` es como anotar un dato en una libreta que tienes en el bolsillo: lo escribes, lo lees y lo tiras rápido si ya no lo necesitas. Todo está contigo, no depende de nadie. En cambio, usar una clase (`class`) es como guardar ese mismo dato en una caja fuerte en otro cuarto: tienes que ir, pedir la llave, abrirla, y cuando ya no lo necesitas, alguien más debe encargarse de borrarlo. Así, los `struct` son ideales para datos pequeños que necesitas manejar rápido y sin complicaciones.*
