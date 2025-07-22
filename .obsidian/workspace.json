@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "0a8fb30646f7e0f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae8731687f53dc9a",
+  "active": "0a8fb30646f7e0f3",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios/DateTime vs TimeSpan en C.md",
     "Notes/Programación/Lenguaje/c-shart.md",
