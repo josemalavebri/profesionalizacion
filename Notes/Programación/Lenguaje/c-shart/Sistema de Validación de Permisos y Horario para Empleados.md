@@ -1,3 +1,6 @@
+
+## Objetivo:
+Representar y verificar si un empleado cumple con ciertos requisitos de horario y permisos para acceder o realizar actividades dentro de una organización
 ## Enunciado del ejercicio
 Vas a simular el **sistema de acceso a un edificio corporativo**.
 El sistema verifica los siguientes aspectos antes de permitir el ingreso:
