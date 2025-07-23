@@ -11,17 +11,15 @@
             "id": "07db60b90bda1458",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-                "viewState": {
-                  "x": 197.25608415165988,
-                  "y": 139.02231909429287,
-                  "zoom": -1.0019020372443748
-                }
+                "file": "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados - Ejercicio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "c-shart - busqueda"
+              "icon": "lucide-file",
+              "title": "Sistema de Validación de Permisos y Horario para Empleados - Ejercicio"
             }
           }
         ]
@@ -78,7 +76,8 @@
               "title": "Buscar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62274a0ab33054ac",
@@ -133,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "file": "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados - Ejercicio.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de c-shart - busqueda"
+              "title": "Enlaces salientes de Sistema de Validación de Permisos y Horario para Empleados - Ejercicio"
             }
           }
         ]
@@ -164,9 +163,19 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "c455cbd61beca620",
+  "active": "07db60b90bda1458",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart/Codigos.md",
+    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
+    "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
+    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
+    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
+    "Notes/Programación/Lenguaje/Java/Java.md",
     "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Lenguajes.md",
     "Plantillas/Plantilla Documento Code.md",
     "Busquedas/Últimos archivos agregados.md",
@@ -180,19 +189,9 @@
     "README.md",
     "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md",
-    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "c-shart - Enums.md",
     "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "Plantillas/c-shart - Structs.md",
-    "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
-    "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
-    "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
-    "Plantillas/Plantilla problemática.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
-    "Sin título 1.md",
-    "Repasos/Estudios Cortos/Estudios Diarios.md",
-    "Sin título.md",
     "Sin nombre",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
