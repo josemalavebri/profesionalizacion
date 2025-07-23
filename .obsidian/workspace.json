@@ -11,15 +11,17 @@
             "id": "07db60b90bda1458",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "viewState": {
+                  "x": 197.25608415165988,
+                  "y": 139.02231909429287,
+                  "zoom": -1.0019020372443748
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tipos de datos - Primitivos"
+              "icon": "lucide-layout-dashboard",
+              "title": "c-shart - busqueda"
             }
           }
         ]
@@ -76,8 +78,7 @@
               "title": "Buscar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62274a0ab33054ac",
@@ -132,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Tipos de datos - Primitivos"
+              "title": "Enlaces salientes de c-shart - busqueda"
             }
           }
         ]
@@ -163,10 +164,10 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "07db60b90bda1458",
+  "active": "c455cbd61beca620",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/Lenguajes.md",
     "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+    "Notes/Programación/Lenguaje/c-shart/Lenguajes.md",
     "Plantillas/Plantilla Documento Code.md",
     "Busquedas/Últimos archivos agregados.md",
     "Busquedas/Temas por investigar.md",
