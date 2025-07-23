@@ -87,6 +87,13 @@
         "type": "FILES",
         "pattern": "Notes/Programación/Lenguaje/c-shart/Codigos.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
