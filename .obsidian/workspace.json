@@ -21,16 +21,6 @@
               "icon": "lucide-file",
               "title": "params en métodos de C"
             }
-          },
-          {
-            "id": "cb7e012479dfbbfd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
           }
         ]
       }
@@ -105,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de params en métodos de C"
             }
           },
           {
@@ -123,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de params en métodos de C"
             }
           },
           {
@@ -181,7 +173,7 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "0d1ee62c4a53fd6c",
+  "active": "352a12d986897215",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
     "Notes/Programación/Lenguaje/c-shart/POO.md",
