@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat.md",
+                "file": "Repasos/Estudios Cortos/Estudios Diarios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chat"
+              "title": "Estudios Diarios"
             }
           }
         ]
@@ -226,7 +226,11 @@
   },
   "active": "352a12d986897215",
   "lastOpenFiles": [
+    "Repasos/Estudios Cortos/Estudios Semanales.md",
+    "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
+    "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Nota Diaria.md",
+    "Chat.md",
     "Comandos de vsc.md",
     "Notes/Programación/Lenguaje/c-shart/Código.md",
     "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados.md",
@@ -240,20 +244,16 @@
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
     "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
-    "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
-    "Repasos/Estudios Cortos/Estudios Semanales.md",
     "Repasos/Estudios Cortos 1/Estudios Semanales Pasados.md",
     "Repasos/Estudios Cortos 1/Estudios Diarios.md",
     "Repasos/Estudios Cortos 1",
     "Plantillas/Plantilla problemática.md",
-    "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "README.md",
     "APLICACION.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Busquedas/Estudios.md",
     "Busquedas/Etiquetas.md",
-    "Busquedas/Temarios.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
     "Repasos/Estudios Largos",
