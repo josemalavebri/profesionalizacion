@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "c-shart"
+              "title": "README"
             }
           },
           {
@@ -95,8 +104,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de c-shart"
+              "title": "Enlaces salientes de README"
             }
           },
           {
@@ -150,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de c-shart"
+              "title": "Enlaces entrantes de README"
             }
           }
         ]
@@ -187,8 +195,15 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "c455cbd61beca620",
+  "active": "352a12d986897215",
   "lastOpenFiles": [
+    "Plantillas/Plantilla problemática.md",
+    "Busquedas/Archivos arreglados.md",
+    "Busquedas/Estudios.md",
+    "Busquedas/Etiquetas.md",
+    "Busquedas/Temarios.md",
+    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
     "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
     "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
@@ -205,18 +220,11 @@
     "Notes/Programación/Lenguaje/c-shart/Codigos.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
-    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
     "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
-    "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
-    "Nota Diaria.md",
-    "Chat.md",
-    "Comandos de vsc.md",
-    "Notes/Programación/Lenguaje/Java/Java.md",
     "Repasos/Estudios Cortos 1",
-    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
     "Repasos/Estudios Largos",

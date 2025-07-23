@@ -1,10 +1,23 @@
 {
   "items": [
     {
-      "type": "file",
-      "ctime": 1753276043092,
-      "path": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
-      "title": "C-Shart"
+      "type": "group",
+      "ctime": 1753276098212,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1753276043092,
+          "path": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+          "title": "C-Shart"
+        },
+        {
+          "type": "file",
+          "ctime": 1753276081347,
+          "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+          "title": "Busquedas - C-Shart"
+        }
+      ],
+      "title": "Lenguaje"
     }
   ]
 }
