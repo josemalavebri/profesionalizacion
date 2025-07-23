@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "e8ae0d9f165c4090",
@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +163,7 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "07db60b90bda1458",
+  "active": "8372e0802167193c",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
     "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
