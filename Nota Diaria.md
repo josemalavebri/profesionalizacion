@@ -9,3 +9,5 @@
 +  `win + shift + a ` Extraer texto en pantalla
 ## Nuevos Comandos en VSC
 + [[Comandos de vsc]]
+
+
