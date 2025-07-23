@@ -4,8 +4,8 @@
 		{"id":"5c4171eccdc645fc","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Frameworks.md","x":-460,"y":-10,"width":400,"height":190},
 		{"id":"5097ef93a4479856","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md","x":520,"y":-70,"width":400,"height":340},
 		{"id":"471a5365783560ef","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Herramientas.md","x":10,"y":-360,"width":400,"height":240},
-		{"id":"107e026ca21605be","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md","x":380,"y":340,"width":340,"height":320},
-		{"id":"38fd9885fc4c16ca","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Fundamentos.md","x":-360,"y":310,"width":440,"height":380,"color":"3"}
+		{"id":"38fd9885fc4c16ca","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Fundamentos.md","x":-520,"y":310,"width":440,"height":380,"color":"3"},
+		{"id":"107e026ca21605be","type":"file","file":"Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md","x":580,"y":370,"width":340,"height":320}
 	],
 	"edges":[
 		{"id":"7cfc2ee45d7a468f","fromNode":"38b61062c41bef76","fromSide":"bottom","toNode":"38fd9885fc4c16ca","toSide":"right"},

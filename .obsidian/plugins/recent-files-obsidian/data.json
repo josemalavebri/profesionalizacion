@@ -5,6 +5,14 @@
       "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
     },
     {
+      "basename": "Bibliotecas Externas",
+      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
+    },
+    {
+      "basename": "Fundamentos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Fundamentos.md"
+    },
+    {
       "basename": "C-shart",
       "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Biblioteca Estándar",
       "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
-    },
-    {
-      "basename": "Bibliotecas Externas",
-      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
     },
     {
       "basename": "Codigos",
@@ -35,10 +39,6 @@
     {
       "basename": "Frameworks",
       "path": "Notes/Programación/Lenguaje/c-shart/Frameworks.md"
-    },
-    {
-      "basename": "Fundamentos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Fundamentos.md"
     },
     {
       "basename": "Java",
