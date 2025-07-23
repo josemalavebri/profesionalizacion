@@ -1,6 +1,0 @@
-Estudios Diarios
-
-
-
-dasfasdf
-asdfasdfa

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Chat",
+      "path": "Chat.md"
+    },
+    {
+      "basename": "Central Main",
+      "path": "Central Main.md"
+    },
+    {
+      "basename": "Plantilla Documento Code",
+      "path": "Plantillas/Plantilla Documento Code.md"
+    },
+    {
       "basename": "Plantilla Documento",
       "path": "Plantillas/Plantilla Documento.md"
     },
@@ -9,20 +21,12 @@
       "path": "README.md"
     },
     {
-      "basename": "Plantilla Documento code",
-      "path": "Plantillas/Plantilla Documento code.md"
-    },
-    {
       "basename": "Últimos archivos agregados",
       "path": "Busquedas/Últimos archivos agregados.md"
     },
     {
       "basename": "Temas por investigar",
       "path": "Busquedas/Temas por investigar.md"
-    },
-    {
-      "basename": "Chat",
-      "path": "Chat.md"
     },
     {
       "basename": "Tipos de datos - Primitivos",
@@ -67,10 +71,6 @@
     {
       "basename": "Conocimientos varios",
       "path": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md"
-    },
-    {
-      "basename": "Sin título 1",
-      "path": "Sin título 1.md"
     },
     {
       "basename": "Estudios Diarios",
