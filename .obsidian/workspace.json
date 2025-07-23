@@ -34,7 +34,7 @@
       {
         "id": "1a45956232e7e014",
         "type": "tabs",
-        "dimension": 69.29460580912863,
+        "dimension": 66.57458563535911,
         "children": [
           {
             "id": "c455cbd61beca620",
@@ -80,25 +80,25 @@
         "currentTab": 1
       },
       {
-        "id": "e8ae0d9f165c4090",
+        "id": "62274a0ab33054ac",
         "type": "tabs",
-        "dimension": 30.70539419087137,
+        "dimension": 33.42541436464088,
         "children": [
           {
-            "id": "2b5276367069f476",
+            "id": "4a7d04aa0c701bf9",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "recent-files",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Cola de notas a revisar"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 301.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -110,13 +110,13 @@
         "dimension": 59.66057441253264,
         "children": [
           {
-            "id": "4a7d04aa0c701bf9",
+            "id": "2b5276367069f476",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
             }
           }
         ]
@@ -144,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
