@@ -31,19 +31,9 @@
               "icon": "lucide-file",
               "title": "Nueva pestaña"
             }
-          },
-          {
-            "id": "0d1ee62c4a53fd6c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +142,23 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "d5a0c7e3cfdebb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d1ee62c4a53fd6c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
