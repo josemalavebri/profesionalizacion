@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Nota Diaria",
+      "path": "Nota Diaria.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Lenguajes",
       "path": "Notes/Programación/Lenguaje/c-shart/Lenguajes.md"
-    },
-    {
-      "basename": "Nota Diaria",
-      "path": "Nota Diaria.md"
     },
     {
       "basename": "Chat",
