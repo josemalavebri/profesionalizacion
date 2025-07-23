@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Repasos/Estudios Cortos/Estudios Diarios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "Estudios Diarios"
             }
           }
         ]
@@ -56,16 +56,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
-            }
-          },
-          {
-            "id": "0ff77963d576c336",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
             }
           },
           {
@@ -116,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.51103591918945
+    "width": 260.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -178,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Repasos/Estudios Cortos/Estudios Diarios.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Nota Diaria"
+              "title": "Enlaces salientes de Estudios Diarios"
             }
           }
         ]
@@ -209,11 +199,11 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "e2c10e6dcf31f341",
+  "active": "8372e0802167193c",
   "lastOpenFiles": [
-    "Sin título.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Nota Diaria.md",
+    "Sin título.md",
     "Busquedas/Archivos arreglados.md",
     "Busquedas/Estudios.md",
     "Busquedas/Temas por investigar.md",
