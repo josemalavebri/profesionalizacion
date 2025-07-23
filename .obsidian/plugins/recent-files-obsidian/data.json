@@ -5,6 +5,10 @@
       "path": "Plantillas/Plantilla Documento.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Plantilla Documento code",
       "path": "Plantillas/Plantilla Documento code.md"
     },
