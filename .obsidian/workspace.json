@@ -84,6 +84,16 @@
               "icon": "lucide-search",
               "title": "Buscar"
             }
+          },
+          {
+            "id": "c455cbd61beca620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
           }
         ]
       }
@@ -99,39 +109,6 @@
         "id": "0123ad7ffbcf9280",
         "type": "tabs",
         "children": [
-          {
-            "id": "cd0ee28e02d2f0f8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Acceso a datos y persistencia"
-            }
-          },
-          {
-            "id": "f5e4d570845c969c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Enlaces salientes de Acceso a datos y persistencia"
-            }
-          },
           {
             "id": "2b5276367069f476",
             "type": "leaf",
@@ -151,22 +128,38 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d5a0c7e3cfdebb95",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "0d1ee62c4a53fd6c",
+            "id": "aa245f2d6e04362c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Acceso a datos y persistencia"
+            }
+          },
+          {
+            "id": "68124b6d731057cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Acceso a datos y persistencia"
             }
           }
         ]
