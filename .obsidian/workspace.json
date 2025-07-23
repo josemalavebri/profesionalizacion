@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "params en métodos de C"
+              "title": "All de LINQ"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de params en métodos de C"
+              "title": "Enlaces entrantes de All de LINQ"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de params en métodos de C"
+              "title": "Enlaces salientes de All de LINQ"
             }
           },
           {
@@ -130,6 +130,16 @@
               "state": {},
               "icon": "SpacedRepIcon",
               "title": "Cola de notas a revisar"
+            }
+          },
+          {
+            "id": "d2de2956018b409b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -175,12 +185,17 @@
   },
   "active": "352a12d986897215",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart/Acceso a datos (ORM).md",
+    "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
+    "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
+    "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
+    "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
     "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
+    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
     "Notes/Programación/Lenguaje/c-shart/POO.md",
     "Notes/Programación/Lenguaje/c-shart/Permisos en programación C.md",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
-    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Codigos.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
@@ -188,7 +203,6 @@
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
     "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados.md",
-    "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
     "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
@@ -196,12 +210,8 @@
     "Chat.md",
     "Comandos de vsc.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
-    "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
-    "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
     "Repasos/Estudios Cortos 1/Estudios Semanales Pasados.md",
-    "Repasos/Estudios Cortos 1/Estudios Diarios.md",
     "Repasos/Estudios Cortos 1",
-    "Plantillas/Plantilla problemática.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
