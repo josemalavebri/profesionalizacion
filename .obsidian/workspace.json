@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chat"
+              "title": "Tipos de datos - Primitivos"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Chat"
+              "title": "Enlaces salientes de Tipos de datos - Primitivos"
             }
           }
         ]
@@ -165,14 +165,17 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
-    "Central Main.md",
     "Plantillas/Plantilla Documento Code.md",
-    "Plantillas/Plantilla Documento.md",
-    "README.md",
+    "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
     "Busquedas/Últimos archivos agregados.md",
     "Busquedas/Temas por investigar.md",
+    "Busquedas/Temarios.md",
+    "Busquedas/Etiquetas.md",
+    "Nota Diaria.md",
     "Chat.md",
-    "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+    "Central Main.md",
+    "Plantillas/Plantilla Documento.md",
+    "README.md",
     "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
@@ -188,11 +191,8 @@
     "Sin título 1.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Sin título.md",
-    "Nota Diaria.md",
     "Sin nombre",
     "Busquedas/Archivos arreglados.md",
-    "Busquedas/Estudios.md",
-    "Busquedas/Temarios.md",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",

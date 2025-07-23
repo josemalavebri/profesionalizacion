@@ -3,6 +3,7 @@
 ## Puntos clave
 
 ## Características
+
 ## Analogía
 
 > *analogía*
