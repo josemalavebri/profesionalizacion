@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Chat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
-            }
-          },
-          {
-            "id": "5ed61b507e8afa4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Ejercicio Nivel 2 para Practicar Booleanos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejercicio Nivel 2 para Practicar Booleanos"
+              "title": "Chat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ed61b507e8afa4c",
+  "active": "352a12d986897215",
   "lastOpenFiles": [
     "Nota Diaria.md",
-    "Notes/Programación/Lenguaje/c-shart/Ejercicio Nivel 2 para Practicar Booleanos.md",
+    "Comandos de vsc.md",
     "Notes/Programación/Lenguaje/c-shart/Código.md",
+    "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados.md",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
@@ -269,7 +254,6 @@
     "Busquedas/Estudios.md",
     "Busquedas/Etiquetas.md",
     "Busquedas/Temarios.md",
-    "Busquedas/Temas por investigar.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
     "Repasos/Estudios Largos",
