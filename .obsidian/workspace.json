@@ -11,17 +11,15 @@
             "id": "07db60b90bda1458",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-                "viewState": {
-                  "x": 33.299551569885324,
-                  "y": 288.19780546871584,
-                  "zoom": -0.48140599290317826
-                }
+                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "c-shart - busqueda"
+              "icon": "lucide-file",
+              "title": "Tipos de datos - Primitivos"
             }
           }
         ]
@@ -133,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de c-shart - busqueda"
+              "title": "Enlaces salientes de Tipos de datos - Primitivos"
             }
           }
         ]
@@ -166,6 +164,10 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
+    "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Chat.md",
     "c-shart - Enums.md",
@@ -189,11 +191,7 @@
     "Busquedas/Temas por investigar.md",
     "Busquedas/Temarios.md",
     "Busquedas/Etiquetas.md",
-    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
-    "Notes/Programación/Lenguaje/c-shart/Acceso a datos (ORM).md",
-    "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
-    "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
