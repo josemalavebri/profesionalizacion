@@ -11,18 +11,24 @@
             "id": "352a12d986897215",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "cb7e012479dfbbfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Validación de pertenencia con All y Contains"
+              "title": "Nueva pestaña"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 240.51103591918945
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -175,8 +181,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           },
           {
@@ -210,12 +216,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 428.5,
-    "collapsed": true
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,10 +240,10 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "352a12d986897215",
+  "active": "485ccbfd8961c79a",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
+    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Codigos.md",
     "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados.md",
     "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
