@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Tipos de datos - Primitivos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
+    },
+    {
+      "basename": "C-shart",
+      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
+    },
+    {
+      "basename": "Codigos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Codigos.md"
+    },
+    {
+      "basename": "Sistema de Validación de Permisos y Horario para Empleados - Ejercicio",
+      "path": "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados - Ejercicio.md"
+    },
+    {
+      "basename": "Bibliotecas Externas",
+      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Biblioteca Estándar",
       "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
     },
     {
       "basename": "c-shart - busqueda",
       "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
-    },
-    {
-      "basename": "C-shart",
-      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
     },
     {
       "basename": "Fundamentos",
@@ -21,32 +41,16 @@
       "path": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md"
     },
     {
-      "basename": "Bibliotecas Externas",
-      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
-    },
-    {
       "basename": "Frameworks",
       "path": "Notes/Programación/Lenguaje/c-shart/Frameworks.md"
-    },
-    {
-      "basename": "Codigos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Codigos.md"
     },
     {
       "basename": "Herramientas",
       "path": "Notes/Programación/Lenguaje/c-shart/Herramientas.md"
     },
     {
-      "basename": "Sistema de Validación de Permisos y Horario para Empleados - Ejercicio",
-      "path": "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados - Ejercicio.md"
-    },
-    {
       "basename": "Java",
       "path": "Notes/Programación/Lenguaje/Java/Java.md"
-    },
-    {
-      "basename": "Tipos de datos - Primitivos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
     },
     {
       "basename": "Lenguajes",
@@ -89,10 +93,6 @@
       "path": "Plantillas/Plantilla Documento.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "c-shart - Tipos de datos",
       "path": "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md"
     },
@@ -119,10 +119,6 @@
     {
       "basename": "Plantilla problemática",
       "path": "Plantillas/Plantilla problemática.md"
-    },
-    {
-      "basename": "Estudios Diarios",
-      "path": "Repasos/Estudios Cortos/Estudios Diarios.md"
     }
   ],
   "omittedPaths": [],
