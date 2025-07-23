@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Tipos de datos - Primitivos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
+      "basename": "Temas por investigar",
+      "path": "Busquedas/Temas por investigar.md"
+    },
+    {
+      "basename": "Etiquetas",
+      "path": "Busquedas/Etiquetas.md"
+    },
+    {
+      "basename": "Plantilla Documento",
+      "path": "Plantillas/Plantilla Documento.md"
     },
     {
       "basename": "Plantilla Documento Code",
       "path": "Plantillas/Plantilla Documento Code.md"
     },
     {
-      "basename": "Plantilla Documento",
-      "path": "Plantillas/Plantilla Documento.md"
+      "basename": "Plantilla problemática",
+      "path": "Plantillas/Plantilla problemática.md"
+    },
+    {
+      "basename": "Tipos de datos - Primitivos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
     },
     {
       "basename": "C-shart",
@@ -69,18 +81,6 @@
       "path": "Busquedas/Últimos archivos agregados.md"
     },
     {
-      "basename": "Temas por investigar",
-      "path": "Busquedas/Temas por investigar.md"
-    },
-    {
-      "basename": "Temarios",
-      "path": "Busquedas/Temarios.md"
-    },
-    {
-      "basename": "Etiquetas",
-      "path": "Busquedas/Etiquetas.md"
-    },
-    {
       "basename": "Nota Diaria",
       "path": "Nota Diaria.md"
     },
@@ -115,10 +115,6 @@
     {
       "basename": "Diferencia entre HashSet y Array",
       "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
-    },
-    {
-      "basename": "Plantilla problemática",
-      "path": "Plantillas/Plantilla problemática.md"
     }
   ],
   "omittedPaths": [],

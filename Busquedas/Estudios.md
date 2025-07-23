@@ -1,7 +1,0 @@
-## [[Estudios Diarios]]
-## [[Estudios Semanales]]
-## [[Estudios Semanales]]
-## [[Estudios Trimestrales]]
-## [[Estudios Mensuales]]
-## [[Estudios Semestrales]]
-## [[Estudios Anuales]]

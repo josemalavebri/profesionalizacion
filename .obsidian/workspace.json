@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+                "file": "Busquedas/Temas por investigar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de datos - Primitivos"
+              "title": "Temas por investigar"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+                "file": "Busquedas/Temas por investigar.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Tipos de datos - Primitivos"
+              "title": "Enlaces salientes de Temas por investigar"
             }
           }
         ]
@@ -165,8 +165,13 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
-    "Plantillas/Plantilla Documento Code.md",
+    "Busquedas/Etiquetas.md",
+    "Busquedas/Temarios.md",
     "Plantillas/Plantilla Documento.md",
+    "Busquedas/Estudios.md",
+    "Busquedas/Archivos arreglados.md",
+    "Plantillas/Plantilla Documento Code.md",
+    "Plantillas/Plantilla problemática.md",
     "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
     "Notes/Programación/Lenguaje/c-shart/C-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Codigos.md",
@@ -183,14 +188,10 @@
     "Notes/Programación/Lenguaje/c-shart/Lenguajes.md",
     "Busquedas/Últimos archivos agregados.md",
     "Busquedas/Temas por investigar.md",
-    "Busquedas/Temarios.md",
-    "Busquedas/Etiquetas.md",
     "Nota Diaria.md",
     "Chat.md",
     "Central Main.md",
     "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
-    "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md",
-    "c-shart - Enums.md",
     "Sin nombre",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",

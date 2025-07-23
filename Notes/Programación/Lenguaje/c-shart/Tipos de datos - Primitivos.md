@@ -5,7 +5,6 @@ sr-ease: 210
 ---
 
 #tipo-documento #review  
-
 ## Puntos claves y Conceptos
 Los **tipos de datos primitivos** son los bloques básicos con los que se construyen todas las variables en un lenguaje de programación. Representan valores simples que no se descomponen más: números, caracteres, booleanos, etc.
 - **Simples**: No están compuestos por otros tipos de datos.

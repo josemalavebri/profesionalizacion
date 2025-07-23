@@ -1,5 +1,4 @@
 #tipo-documento #review  
-
 ## Puntos clave
 
 ## Características
