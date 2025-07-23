@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Temas por investigar",
       "path": "Busquedas/Temas por investigar.md"
     },
@@ -41,10 +45,6 @@
       "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Biblioteca Estándar",
       "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
     },
@@ -75,10 +75,6 @@
     {
       "basename": "Lenguajes",
       "path": "Notes/Programación/Lenguaje/c-shart/Lenguajes.md"
-    },
-    {
-      "basename": "Últimos archivos agregados",
-      "path": "Busquedas/Últimos archivos agregados.md"
     },
     {
       "basename": "Nota Diaria",
