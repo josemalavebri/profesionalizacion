@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Repasos/Estudios Cortos/Estudios Diarios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "Estudios Diarios"
+            }
+          },
+          {
+            "id": "07dc0a4228ac1f49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,42 +184,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b5daa11e56c2deea",
+        "type": "tabs",
+        "children": [
           {
             "id": "aa245f2d6e04362c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Sin título.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Nota Diaria"
-            }
-          },
-          {
-            "id": "68124b6d731057cd",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Nota Diaria.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Nota Diaria"
+              "title": "Enlaces salientes de Sin título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,6 +231,9 @@
   },
   "active": "aa245f2d6e04362c",
   "lastOpenFiles": [
+    "Repasos/Estudios Cortos/Estudios Diarios.md",
+    "Sin título.md",
+    "Nota Diaria.md",
     "Busquedas/Archivos arreglados.md",
     "Busquedas/Estudios.md",
     "Busquedas/Temas por investigar.md",
@@ -245,9 +258,6 @@
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Codigos.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
-    "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
-    "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados.md",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
