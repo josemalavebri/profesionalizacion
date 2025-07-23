@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantillas/Plantilla Documento.md",
+                "file": "Chat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla Documento"
+              "title": "Chat"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plantillas/Plantilla Documento.md",
+                "file": "Chat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Plantilla Documento"
+              "title": "Enlaces salientes de Chat"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "Plantillas/Plantilla Documento.md",
+    "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "Plantillas/c-shart - Structs.md",
     "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
     "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
