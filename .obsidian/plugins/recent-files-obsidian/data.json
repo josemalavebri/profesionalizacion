@@ -5,6 +5,14 @@
       "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
     },
     {
+      "basename": "Plantilla Documento Code",
+      "path": "Plantillas/Plantilla Documento Code.md"
+    },
+    {
+      "basename": "Plantilla Documento",
+      "path": "Plantillas/Plantilla Documento.md"
+    },
+    {
       "basename": "C-shart",
       "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
     },
@@ -57,10 +65,6 @@
       "path": "Notes/Programación/Lenguaje/c-shart/Lenguajes.md"
     },
     {
-      "basename": "Plantilla Documento Code",
-      "path": "Plantillas/Plantilla Documento Code.md"
-    },
-    {
       "basename": "Últimos archivos agregados",
       "path": "Busquedas/Últimos archivos agregados.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Central Main",
       "path": "Central Main.md"
-    },
-    {
-      "basename": "Plantilla Documento",
-      "path": "Plantillas/Plantilla Documento.md"
     },
     {
       "basename": "c-shart - Tipos de datos",

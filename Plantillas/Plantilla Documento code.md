@@ -7,8 +7,8 @@
 ## Analogía
 
 > *analogía*
-## Ejemplo Sintaxis
-### Creación y sintaxis
+## Ejemplos
+### Sintaxis 
 ```c
 
 ```
