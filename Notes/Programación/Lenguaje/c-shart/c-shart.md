@@ -4,6 +4,6 @@
 + [[Fundamentos]]
 + [[Bibliotecas Externas]]
 + [[Conocimientos varios]]
-+ [[Código]]
++ [[Codigos]]
 
 
