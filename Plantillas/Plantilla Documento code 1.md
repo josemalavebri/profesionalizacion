@@ -6,7 +6,7 @@
 ## Analogía
 
 > *analogía*
-## Ejemplo
+## Ejemplo Sintaxis
 ### Creación y sintaxis
 ```c
 
