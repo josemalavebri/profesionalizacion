@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bitwise OR en enums con Flags"
+              "title": "Validación de pertenencia con All y Contains"
             }
           }
         ]
@@ -238,6 +238,8 @@
   "active": "352a12d986897215",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
+    "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Notes/Programación/Lenguaje/c-shart/Permisos en programación C.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
@@ -262,9 +264,7 @@
     "Plantillas/Plantilla problemática.md",
     "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "README.md",
-    "APLICACION.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-    "Busquedas/Estudios.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
     "Repasos/Estudios Largos",
