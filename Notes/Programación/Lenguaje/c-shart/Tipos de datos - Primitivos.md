@@ -1,3 +1,9 @@
+---
+sr-due: 2025-07-24
+sr-interval: 1
+sr-ease: 210
+---
+
 #tipo-documento #review  
 
 ## Puntos claves y Conceptos
@@ -11,11 +17,8 @@ Los **tipos de datos primitivos** son los bloques básicos con los que se cons
 - **Inmutables** (en muchos [[lenguajes]]): No cambian su valor una vez asignados, sino que se reemplazan
 ## Características
 - Se almacenan en **la pila (stack)**, lo que hace que su acceso sea rápido.
-    
 - Ocupan una **cantidad fija de memoria** dependiendo del tipo (por ejemplo, `int` ocupa 4 bytes en C#).
-    
 - Soportan operaciones básicas según el tipo: suma para números, comparación para booleanos, etc.
-    
 - Tienen **valores por defecto** al declararse sin inicializar (por ejemplo, `false` en un `bool`, `0` en un `int`).
 ## Analogía
 
