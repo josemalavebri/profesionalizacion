@@ -163,7 +163,8 @@
     "tipo-general": 151,
     "flashcard": 152,
     "flashcards": 153,
-    "review": 154
+    "review": 154,
+    "reviews": 155
   },
   "_version": 3
 }
