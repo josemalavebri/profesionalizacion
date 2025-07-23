@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "All de LINQ"
+              "title": "Diferencia entre HashSet y Array"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
+                "file": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de All de LINQ"
+              "title": "Enlaces salientes de Diferencia entre HashSet y Array"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
     "Sin título 1.md",
     "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Sin título.md",
@@ -181,7 +183,6 @@
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
-    "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
     "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos (ORM).md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
@@ -192,7 +193,6 @@
     "Notes/Programación/Lenguaje/c-shart/Permisos en programación C.md",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
