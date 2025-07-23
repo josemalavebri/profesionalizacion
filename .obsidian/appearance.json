@@ -7,7 +7,7 @@
   "textFontFamily": "Fira Sans,Fira Sans Four,Helvetica,Helvetica Rounded,Roboto",
   "interfaceFontFamily": "Roboto",
   "accentColor": "#f953bc",
-  "showRibbon": true,
+  "showRibbon": false,
   "nativeMenus": false,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "FiraCode Nerd Font Mono"
