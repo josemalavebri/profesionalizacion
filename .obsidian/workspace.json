@@ -11,15 +11,17 @@
             "id": "07db60b90bda1458",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Chat.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "viewState": {
+                  "x": 33.299551569885324,
+                  "y": 288.19780546871584,
+                  "zoom": -0.48140599290317826
+                }
               },
-              "icon": "lucide-file",
-              "title": "Chat"
+              "icon": "lucide-layout-dashboard",
+              "title": "c-shart - busqueda"
             }
           }
         ]
@@ -76,8 +78,7 @@
               "title": "Buscar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e8ae0d9f165c4090",
@@ -132,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat.md",
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Chat"
+              "title": "Enlaces salientes de c-shart - busqueda"
             }
           }
         ]
@@ -165,6 +166,9 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
+    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+    "Chat.md",
+    "c-shart - Enums.md",
     "Plantillas/Plantilla Documento.md",
     "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md",
     "Plantillas/c-shart - Structs.md",
@@ -179,20 +183,17 @@
     "Sin título.md",
     "README.md",
     "Nota Diaria.md",
-    "Chat.md",
     "Sin nombre",
     "Busquedas/Archivos arreglados.md",
     "Busquedas/Estudios.md",
     "Busquedas/Temas por investigar.md",
     "Busquedas/Temarios.md",
     "Busquedas/Etiquetas.md",
-    "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos y persistencia.md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos (ORM).md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
     "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
-    "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
     "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
