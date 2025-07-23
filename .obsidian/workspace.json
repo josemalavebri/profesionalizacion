@@ -11,17 +11,15 @@
             "id": "07db60b90bda1458",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-                "viewState": {
-                  "x": 230,
-                  "y": 165.0000000000001,
-                  "zoom": -1.0019020372443748
-                }
+                "file": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "c-shart - busqueda"
+              "icon": "lucide-file",
+              "title": "Biblioteca Estándar"
             }
           }
         ]
@@ -78,7 +76,8 @@
               "title": "Buscar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62274a0ab33054ac",
@@ -166,8 +165,8 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/C-shart.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+    "Notes/Programación/Lenguaje/c-shart/C-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
