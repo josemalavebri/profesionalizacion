@@ -14,3 +14,4 @@
 - [[Chequeo de permisos con HashSet]]  
 - [[Métodos con argumentos variables]]  
 - [[Colecciones eficientes para validación]]  
+
