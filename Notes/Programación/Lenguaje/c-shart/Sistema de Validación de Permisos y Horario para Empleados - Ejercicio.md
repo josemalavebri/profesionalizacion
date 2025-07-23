@@ -1,4 +1,4 @@
-
+#tipo-ejercicio
 ## Objetivo:
 Representar y verificar si un empleado cumple con ciertos requisitos de horario y permisos para acceder o realizar actividades dentro de una organización
 ## Enunciado del ejercicio

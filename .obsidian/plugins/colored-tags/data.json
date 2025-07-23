@@ -165,7 +165,8 @@
     "flashcards": 153,
     "review": 154,
     "reviews": 155,
-    "tipo-documento": 156
+    "tipo-documento": 156,
+    "tipo-ejercicio": 157
   },
   "_version": 3
 }

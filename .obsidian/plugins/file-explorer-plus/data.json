@@ -92,7 +92,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/c-shart.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/C-shart.md",
         "patternType": "STRICT"
       }
     ],
