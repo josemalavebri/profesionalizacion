@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e083903e2b354b6a",
+        "id": "6441f4e464ba653b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d16afb02c85c28e",
+            "id": "07db60b90bda1458",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sin título 1"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -34,8 +29,18 @@
       {
         "id": "1a45956232e7e014",
         "type": "tabs",
-        "dimension": 67.67955801104972,
+        "dimension": 64.59197786998617,
         "children": [
+          {
+            "id": "c455cbd61beca620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
           {
             "id": "8372e0802167193c",
             "type": "leaf",
@@ -55,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tipo-principal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,23 +70,14 @@
               "icon": "lucide-search",
               "title": "Buscar"
             }
-          },
-          {
-            "id": "c455cbd61beca620",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e8ae0d9f165c4090",
         "type": "tabs",
-        "dimension": 32.32044198895028,
+        "dimension": 35.40802213001383,
         "children": [
           {
             "id": "2b5276367069f476",
@@ -109,31 +105,13 @@
         "dimension": 59.66057441253264,
         "children": [
           {
-            "id": "ab59dd4d4a7bdc02",
+            "id": "4a7d04aa0c701bf9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "recent-files",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "a1f84797b6eb55d2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -149,19 +127,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sin título 1"
+              "title": "Enlaces salientes"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +157,14 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "2d16afb02c85c28e",
+  "active": "8372e0802167193c",
   "lastOpenFiles": [
-    "Sin título.md",
     "Sin título 1.md",
+    "Repasos/Estudios Cortos/Estudios Diarios.md",
+    "Sin título.md",
     "README.md",
     "Nota Diaria.md",
     "Chat.md",
-    "Repasos/Estudios Cortos/Estudios Diarios.md",
     "Sin nombre",
     "Busquedas/Archivos arreglados.md",
     "Busquedas/Estudios.md",
