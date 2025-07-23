@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+                "file": "Chat.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de datos - Primitivos"
+              "title": "Chat"
             }
           }
         ]
@@ -76,7 +76,8 @@
               "title": "Buscar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e8ae0d9f165c4090",
@@ -131,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+                "file": "Chat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Tipos de datos - Primitivos"
+              "title": "Enlaces salientes de Chat"
             }
           }
         ]
@@ -164,8 +165,8 @@
   },
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
     "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
+    "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",

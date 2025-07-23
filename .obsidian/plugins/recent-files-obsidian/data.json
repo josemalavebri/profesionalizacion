@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chat",
+      "path": "Chat.md"
+    },
+    {
       "basename": "Tipos de datos - Primitivos",
       "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "c-shart",
       "path": "Notes/Programación/Lenguaje/c-shart/c-shart.md"
-    },
-    {
-      "basename": "Chat",
-      "path": "Chat.md"
     },
     {
       "basename": "Plantilla Documento",
