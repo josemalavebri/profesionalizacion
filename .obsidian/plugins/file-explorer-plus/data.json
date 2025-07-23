@@ -85,7 +85,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Código.md",
         "patternType": "STRICT"
       }
     ],

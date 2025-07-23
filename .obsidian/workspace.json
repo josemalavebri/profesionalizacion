@@ -26,10 +26,15 @@
             "id": "5ed61b507e8afa4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Programación/Lenguaje/c-shart/Ejercicio Nivel 2 para Practicar Booleanos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Ejercicio Nivel 2 para Practicar Booleanos"
             }
           }
         ],
@@ -237,17 +242,17 @@
   },
   "active": "5ed61b507e8afa4c",
   "lastOpenFiles": [
-    "Nota Diaria.md",
+    "Notes/Programación/Lenguaje/c-shart/Código.md",
+    "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
+    "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
+    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
+    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
+    "Nota Diaria.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
-    "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
-    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
-    "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
-    "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje.md",
     "Notes/Programación/Lenguaje/c-shart/Autenticación y seguridad.md",
     "Repasos/Estudios Cortos/Estudios Semanales Pasados.md",
     "Repasos/Estudios Cortos/Estudios Semanales.md",
