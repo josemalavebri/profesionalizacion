@@ -1,4 +1,3 @@
 
-Estudios Diarios
 
 
