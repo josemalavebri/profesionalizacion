@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Nota Diaria"
             }
+          },
+          {
+            "id": "5ed61b507e8afa4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,12 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "352a12d986897215",
+  "active": "5ed61b507e8afa4c",
   "lastOpenFiles": [
+    "Nota Diaria.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
-    "Nota Diaria.md",
     "Notes/Programación/Lenguaje/c-shart/c-shart.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/c-shart/Acceso a datos.md",
