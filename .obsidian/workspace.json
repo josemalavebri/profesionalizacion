@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantillas/Plantilla Documento code 1.md",
+                "file": "Plantillas/Plantilla Documento.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla Documento code 1"
+              "title": "Plantilla Documento"
             }
           }
         ]
@@ -132,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plantillas/Plantilla Documento code 1.md",
+                "file": "Plantillas/Plantilla Documento.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Plantilla Documento code 1"
+              "title": "Enlaces salientes de Plantilla Documento"
             }
           }
         ]
@@ -166,7 +166,7 @@
   "active": "07db60b90bda1458",
   "lastOpenFiles": [
     "Plantillas/Plantilla Documento code.md",
-    "Plantillas/Plantilla Documento code 1.md",
+    "Plantillas/Plantilla Documento.md",
     "Busquedas/Últimos archivos agregados.md",
     "Busquedas/Temas por investigar.md",
     "Chat.md",

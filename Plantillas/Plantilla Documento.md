@@ -6,12 +6,4 @@
 ## Analogía
 
 > *analogía*
-## Ejemplo Sintaxis
-### Creación y sintaxis
-```c
-
-```
-### Uso
-```c#
-
-```
+> 
