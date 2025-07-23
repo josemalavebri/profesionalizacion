@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileCode",
       "LiCodeXml",
       "LiCode",
       "LiFileX",
-      "SiBootstrap",
-      "LiDatabase"
+      "SiBootstrap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,5 +53,6 @@
   "Repasos/Estudios Largos/Estudios Semestrales.md": "LiPen",
   "Repasos/Estudios Largos/Estudios Trimestrales.md": "LiPen",
   "Notes": "LiCode",
-  "Busquedas/Lenguajes": "LiCodeXml"
+  "Busquedas/Lenguajes": "LiCodeXml",
+  "Plantillas/Plantilla Documento.md": "LiFileCode"
 }

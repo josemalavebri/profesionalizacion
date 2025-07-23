@@ -5,6 +5,10 @@
       "path": "Plantillas/Plantilla Documento.md"
     },
     {
+      "basename": "Estructuras (struct)",
+      "path": "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md"
+    },
+    {
       "basename": "params en métodos de C",
       "path": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md"
     },
@@ -15,14 +19,6 @@
     {
       "basename": "Diferencia entre HashSet y Array",
       "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
-    },
-    {
-      "basename": "c-shart - Structs",
-      "path": "Plantillas/c-shart - Structs.md"
-    },
-    {
-      "basename": "Estructuras (struct)",
-      "path": "Notes/Programación/Lenguaje/c-shart/Estructuras (struct).md"
     },
     {
       "basename": "Plantilla problemática",
