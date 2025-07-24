@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b5e71abaa6b830a",
+        "id": "a97baf407ef82ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "c0571d8fe36b7c1b",
+            "id": "be065336f8c8fd20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,8 +182,9 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "c0571d8fe36b7c1b",
+  "active": "2b5276367069f476",
   "lastOpenFiles": [
+    "Nota Diaria.md",
     "README.md",
     "Busquedas/Temas por investigar.md",
     "Busquedas/Últimos archivos agregados.md",
@@ -207,7 +208,6 @@
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
     "Notes/Programación/Lenguaje/c-shart/Lenguajes.md",
-    "Nota Diaria.md",
     "Chat.md",
     "Central Main.md",
     "Notes/Programación/Lenguaje/c-shart/c-shart - Tipos de datos.md",
