@@ -55,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "62274a0ab33054ac",
@@ -170,7 +170,7 @@
       "bookmarks-caller:Search bookmarks": false
     }
   },
-  "active": "2b5276367069f476",
+  "active": "8372e0802167193c",
   "lastOpenFiles": [
     "Notes/Programación/Lenguaje/c-shart/C-shart.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
