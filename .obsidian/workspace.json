@@ -26,17 +26,15 @@
             "id": "5924d32e503e301e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-                "viewState": {
-                  "x": 210,
-                  "y": -53.637983322247294,
-                  "zoom": -0.8080174685863043
-                }
+                "file": "Central Main.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "c-shart - busqueda"
+              "icon": "lucide-file",
+              "title": "Central Main"
             }
           }
         ],
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "file": "Central Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de c-shart - busqueda"
+              "title": "Enlaces entrantes de Central Main"
             }
           }
         ]
@@ -151,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "file": "Central Main.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de c-shart - busqueda"
+              "title": "Enlaces salientes de Central Main"
             }
           }
         ]
@@ -183,15 +181,16 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "5924d32e503e301e",
+  "active": "c455cbd61beca620",
   "lastOpenFiles": [
+    "Busquedas/Temas por investigar.md",
+    "Busquedas/Etiquetas.md",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Fundamentos/Consejos.md",
     "Notes/Programación/Fundamentos/Fundamentos.md",
     "Nota Diaria.md",
     "README.md",
-    "Busquedas/Temas por investigar.md",
     "Busquedas/Últimos archivos agregados.md",
-    "Busquedas/Etiquetas.md",
     "Busquedas/Temarios.md",
     "Plantillas/Plantilla Documento.md",
     "Busquedas/Estudios.md",
@@ -204,14 +203,12 @@
     "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados - Ejercicio.md",
     "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
     "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
-    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
     "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
     "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
     "Notes/Programación/Lenguaje/Java/Java.md",
     "Notes/Programación/Lenguaje/c-shart/Lenguajes.md",
-    "Chat.md",
     "Sin nombre",
     "Repasos/Estudios Cortos 1",
     "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",

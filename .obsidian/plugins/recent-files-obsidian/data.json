@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Central Main",
+      "path": "Central Main.md"
+    },
+    {
+      "basename": "Temas por investigar",
+      "path": "Busquedas/Temas por investigar.md"
+    },
+    {
+      "basename": "Etiquetas",
+      "path": "Busquedas/Etiquetas.md"
+    },
+    {
       "basename": "c-shart - busqueda",
       "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
     },
@@ -19,14 +31,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Temas por investigar",
-      "path": "Busquedas/Temas por investigar.md"
-    },
-    {
-      "basename": "Etiquetas",
-      "path": "Busquedas/Etiquetas.md"
     },
     {
       "basename": "Plantilla Documento",
@@ -91,10 +95,6 @@
     {
       "basename": "Chat",
       "path": "Chat.md"
-    },
-    {
-      "basename": "Central Main",
-      "path": "Central Main.md"
     },
     {
       "basename": "c-shart - Tipos de datos",
