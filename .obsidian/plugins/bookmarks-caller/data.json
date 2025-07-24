@@ -12,8 +12,8 @@
     "structureType": "original",
     "sortOrder": "original",
     "recursivelyOpen": true,
-    "showFooterButtons": true,
-    "showLegends": true,
+    "showFooterButtons": false,
+    "showLegends": false,
     "focusColor": "#f853bc"
   }
 }

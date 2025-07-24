@@ -185,5 +185,13 @@
       "key": "ArrowDown"
     }
   ],
-  "editor:open-link-in-new-window": []
+  "editor:open-link-in-new-window": [],
+  "bookmarks-caller:search-bookmarks": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
 }
