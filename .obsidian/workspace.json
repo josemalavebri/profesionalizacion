@@ -26,15 +26,17 @@
             "id": "5924d32e503e301e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/Programación/Fundamentos/Consejos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "viewState": {
+                  "x": 210,
+                  "y": -53.637983322247294,
+                  "zoom": -0.8080174685863043
+                }
               },
-              "icon": "lucide-file",
-              "title": "Consejos"
+              "icon": "lucide-layout-dashboard",
+              "title": "c-shart - busqueda"
             }
           }
         ],
@@ -76,24 +78,16 @@
             }
           },
           {
-            "id": "32db22ac495393a4",
+            "id": "2b5276367069f476",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#review",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Buscar"
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62274a0ab33054ac",
@@ -114,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 271.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -126,22 +120,12 @@
         "dimension": 59.66057441253264,
         "children": [
           {
-            "id": "2b5276367069f476",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Cola de notas a revisar"
-            }
-          },
-          {
             "id": "4edb60e088d7f43d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de c-shart - busqueda"
             }
           }
         ]
@@ -167,19 +151,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programación/Fundamentos/Consejos.md",
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Consejos"
+              "title": "Enlaces salientes de c-shart - busqueda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 254.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +185,8 @@
   },
   "active": "5924d32e503e301e",
   "lastOpenFiles": [
-    "Notes/Programación/Fundamentos/Fundamentos.md",
     "Notes/Programación/Fundamentos/Consejos.md",
+    "Notes/Programación/Fundamentos/Fundamentos.md",
     "Nota Diaria.md",
     "README.md",
     "Busquedas/Temas por investigar.md",
