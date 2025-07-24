@@ -23,6 +23,38 @@
               "icon": "lucide-layout-dashboard",
               "title": "c-shart - busqueda"
             }
+          },
+          {
+            "id": "0bc204b5729ecf12",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "c-shart - busqueda"
+            }
+          },
+          {
+            "id": "6e11da56acac4c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Programación/Lenguaje/c-shart/C-shart.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "C-shart"
+            }
           }
         ]
       }
