@@ -9,7 +9,7 @@
     "backBtn": "Backspace"
   },
   "searchBookmarks": {
-    "structureType": "flat",
+    "structureType": "original",
     "sortOrder": "original",
     "recursivelyOpen": true,
     "showFooterButtons": true,
