@@ -5,6 +5,10 @@
       "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
     },
     {
+      "basename": "C-shart",
+      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
+    },
+    {
       "basename": "Fundamentos",
       "path": "Notes/Programación/Fundamentos/Fundamentos.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Tipos de datos - Primitivos",
       "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
-    },
-    {
-      "basename": "C-shart",
-      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
     },
     {
       "basename": "Codigos",
