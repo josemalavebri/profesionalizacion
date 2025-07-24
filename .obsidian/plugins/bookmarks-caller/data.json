@@ -9,11 +9,11 @@
     "backBtn": "Backspace"
   },
   "searchBookmarks": {
-    "structureType": "original",
+    "structureType": "flat",
     "sortOrder": "original",
     "recursivelyOpen": true,
-    "showFooterButtons": false,
-    "showLegends": false,
+    "showFooterButtons": true,
+    "showLegends": true,
     "focusColor": "#f853bc"
   }
 }

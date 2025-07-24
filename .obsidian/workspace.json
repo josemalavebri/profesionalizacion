@@ -23,6 +23,23 @@
             }
           },
           {
+            "id": "1e85bf6bb82ef818",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "c-shart - busqueda"
+            }
+          },
+          {
             "id": "e4e40b0ed01b9d7b",
             "type": "leaf",
             "state": {
@@ -182,7 +199,7 @@
       "bookmarks-caller:Search bookmarks": false
     }
   },
-  "active": "c455cbd61beca620",
+  "active": "30ab52193e936c48",
   "lastOpenFiles": [
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Notes/Programación/Lenguaje/c-shart/C-shart.md",
