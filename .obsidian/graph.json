@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "path:Seguridad  ",
+  "search": "path: Seguridad  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {

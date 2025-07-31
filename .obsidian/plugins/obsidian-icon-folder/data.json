@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileBadge",
       "LiFile",
       "LiFileCode",
       "LiCodeXml",
-      "LiCode",
-      "LiFileX"
+      "LiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Notes": "LiCode",
   "Busquedas/Lenguajes": "LiCodeXml",
   "Plantillas/Plantilla Documento.md": "LiFile",
-  "Plantillas/Plantilla Documento Code.md": "LiFileCode"
+  "Plantillas/Plantilla Documento Code.md": "LiFileCode",
+  "Seguridad": "LiFileBadge"
 }

@@ -1,28 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Nota Diaria",
-      "path": "Nota Diaria.md"
-    },
-    {
-      "basename": "Requerimientos generales - Corregir",
-      "path": "Seguridad/Requerimientos generales - Corregir.md"
-    },
-    {
-      "basename": "P-Auditoria-Seguridad",
-      "path": "Seguridad/P-Auditoria-Seguridad.md"
-    },
-    {
       "basename": "Terminados de analizar",
       "path": "Seguridad/Terminados de analizar.md"
     },
     {
-      "basename": "25",
-      "path": "25/07/25.md"
-    },
-    {
-      "basename": "30",
-      "path": "25/07/30.md"
+      "basename": "P-Auditoria-Seguridad",
+      "path": "Seguridad/P-Auditoria-Seguridad.md"
     },
     {
       "basename": "Excalidraw Flujos",
@@ -33,16 +17,28 @@
       "path": "Seguridad/Preguntas no respondidas.md"
     },
     {
-      "basename": "Cambios en el codigo",
-      "path": "Cambios en el codigo.md"
+      "basename": "Recomendaciones generales - Personales",
+      "path": "Seguridad/Recomendaciones generales - Personales.md"
     },
     {
       "basename": "Recolección de requerimientos nuevos",
       "path": "Seguridad/Recolección de requerimientos nuevos.md"
     },
     {
-      "basename": "Recomendaciones generales",
-      "path": "Seguridad/Recomendaciones generales.md"
+      "basename": "ARCO",
+      "path": "Seguridad/Documetos/ARCO.md"
+    },
+    {
+      "basename": "Nota Diaria",
+      "path": "Nota Diaria.md"
+    },
+    {
+      "basename": "Requerimientos generales - Corregir",
+      "path": "Seguridad/Requerimientos generales - Corregir.md"
+    },
+    {
+      "basename": "Cambios en el codigo",
+      "path": "Cambios en el codigo.md"
     },
     {
       "basename": "Preguntas - respondidas",
@@ -139,10 +135,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "ARCO",
-      "path": "Seguridad/Documetos/ARCO.md"
     },
     {
       "basename": "Espacios y estructura del lenguaje",

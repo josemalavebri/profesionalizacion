@@ -1,5 +1,3 @@
-
-
 + FLUJO GENERAL DE LA ENCUESTA
 	+ ![[Pasted image 20250731082513.png]]
 + REALIZAR LA ENCUESTA
@@ -8,3 +6,5 @@
 	+ ![[Pasted image 20250731082346.png]]
 + CALCULO DE % POR SECCIONES
 	+ ![[Pasted image 20250731082827.png]]
+
+

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota Diaria.md",
+                "file": "Seguridad/Terminados de analizar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nota Diaria"
+              "title": "Terminados de analizar"
             }
           }
         ]
@@ -86,7 +86,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62274a0ab33054ac",
@@ -184,20 +185,21 @@
   },
   "active": "7e7c2c29c11e7205",
   "lastOpenFiles": [
-    "Seguridad/Requerimientos generales - Corregir.md",
-    "Seguridad/Terminados de analizar.md",
     "Seguridad/P-Auditoria-Seguridad.md",
-    "25/07/25.md",
-    "25/07/30.md",
-    "25/07",
-    "25",
     "Seguridad/Excalidraw Flujos.md",
     "Seguridad/Preguntas no respondidas.md",
+    "Seguridad/Recomendaciones generales - Personales.md",
+    "Seguridad/Terminados de analizar.md",
+    "Seguridad/Recolección de requerimientos nuevos.md",
+    "Seguridad/Documetos/ARCO.md",
+    "25/07/25.md",
+    "25/07/30.md",
+    "Nota Diaria.md",
+    "Seguridad/Requerimientos generales - Corregir.md",
+    "25/07",
+    "25",
     "Seguridad/Catálogo y el código.md",
     "Cambios en el codigo.md",
-    "Nota Diaria.md",
-    "Seguridad/Recolección de requerimientos nuevos.md",
-    "Seguridad/Recomendaciones generales.md",
     "Seguridad/ANEXOS/Pasted image 20250731083359.png",
     "Seguridad/ANEXOS/Pasted image 20250731082850.png",
     "Seguridad/ANEXOS/Pasted image 20250731082827.png",
@@ -222,7 +224,6 @@
     "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
     "Notes/Programación/php/Fundamentos de PHP.md",
     "Automatizacion web/Temario para automatizacion we.md",
-    "Notes/Programación/php/php.md",
     "Notes/Programación/php",
     "Automatizacion web/Python",
     "Automatizacion web",
