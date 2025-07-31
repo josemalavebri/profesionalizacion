@@ -1,1 +1,1 @@
-[[Formulario - Preguntas - Grupos por categoría - mal]]
+[[Formulario - Preguntas - Grupos por categoría - Corregido]]

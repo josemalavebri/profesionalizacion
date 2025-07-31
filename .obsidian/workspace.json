@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seguridad/Terminados de analizar.md",
+                "file": "Seguridad/P-Auditoria-Seguridad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Terminados de analizar"
+              "title": "P-Auditoria-Seguridad"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "7e7c2c29c11e7205",
   "lastOpenFiles": [
+    "Seguridad/Terminados de analizar.md",
+    "Seguridad/Requerimientos extendidos - mal.md",
+    "Seguridad/Formulario - Preguntas - Grupos por categoría - Corregido.md",
     "Seguridad/P-Auditoria-Seguridad.md",
     "Seguridad/Excalidraw Flujos.md",
     "Seguridad/Preguntas no respondidas.md",
     "Seguridad/Recomendaciones generales - Personales.md",
-    "Seguridad/Terminados de analizar.md",
     "Seguridad/Recolección de requerimientos nuevos.md",
     "Seguridad/Documetos/ARCO.md",
     "25/07/25.md",
@@ -214,8 +216,6 @@
     "Seguridad/ANEXOS",
     "Notes/Programación/Lenguaje/c-shart/Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json.md",
     "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md",
-    "Seguridad/Requerimientos extendidos - mal.md",
-    "Seguridad/Formulario - Preguntas - Grupos por categoría - mal.md",
     "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md",
     "Automatizacion web/Python/Entornos virtuales en Python.md",
     "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md",
