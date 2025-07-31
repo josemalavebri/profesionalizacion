@@ -1,8 +1,10 @@
-25/07/30
-+ [[Requerimientos generales - mal]]
-+ [[Requerimientos extendidos - mal]]
-+ [[Preguntas - respondidas]]
+## Documentos para estudiar
++ [[ARCO]]
++ [[Documento de flujo organizacional de la institución]] #revisar
+## [[Terminados de analizar]]
+
+## 31/07/24
 + [[Recolección de requerimientos nuevos]]
-31/07/24
-+ [[Preguntas ]]
++ [[Preguntas no respondidas]]
 + [[Excalidraw Flujos]]
++ [[Recomendaciones generales]]

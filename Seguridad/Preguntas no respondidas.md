@@ -1,12 +1,9 @@
-
-
-## Preguntas para el ing
+## Preguntas para el Ing.
 + La base de datos tiene actualización de direcciones/facultades
   > Ya que en el sistema de auditoria se tiene que auditar mas facultades o dirección a futuro se tiene que tener en cuenta la disponibilidad de nuevo elementos auditables (direcciones/facultades)
-## Preguntas para Bólivar
+## Preguntas para Bolívar
 +  Cómo es el calculo de porcentajes por ug 
 	+ Se puede calcular por medio de ponderación de % de acuerdo a todos los ítems en general o a ponderación de secciones  y luego en ug
-
 ### Forma de calculo 1:
 
 ![[Pasted image 20250731081826.png]]
