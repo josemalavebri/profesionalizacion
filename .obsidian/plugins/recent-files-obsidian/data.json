@@ -5,6 +5,14 @@
       "path": "Seguridad/P-Auditoria-Seguridad.md"
     },
     {
+      "basename": "Preguntas no respondidas",
+      "path": "Seguridad/Preguntas no respondidas.md"
+    },
+    {
+      "basename": "Recolección de requerimientos nuevos",
+      "path": "Seguridad/Recolección de requerimientos nuevos.md"
+    },
+    {
       "basename": "Terminados de analizar",
       "path": "Seguridad/Terminados de analizar.md"
     },
@@ -21,16 +29,8 @@
       "path": "Seguridad/Excalidraw Flujos.md"
     },
     {
-      "basename": "Preguntas no respondidas",
-      "path": "Seguridad/Preguntas no respondidas.md"
-    },
-    {
       "basename": "Recomendaciones generales - Personales",
       "path": "Seguridad/Recomendaciones generales - Personales.md"
-    },
-    {
-      "basename": "Recolección de requerimientos nuevos",
-      "path": "Seguridad/Recolección de requerimientos nuevos.md"
     },
     {
       "basename": "ARCO",
