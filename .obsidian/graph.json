@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Seguridad  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -12,6 +12,20 @@
       "color": {
         "a": 1,
         "rgb": 6902496
+      }
+    },
+    {
+      "query": "path:Notes/Programación/Angular  ",
+      "color": {
+        "a": 1,
+        "rgb": 14352384
+      }
+    },
+    {
+      "query": "path:Seguridad  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 7.60416666666667,
   "linkStrength": 0.848958333333333,
   "linkDistance": 123,
-  "scale": 0.12543086569654477,
-  "close": true
+  "scale": 1.086687071658722,
+  "close": false
 }

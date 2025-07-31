@@ -1,0 +1,4 @@
+- [[Eager loading]]
+- [[Lazy loading]]
+- [[Explicit loading]]
+- [[Carga selectiva y optimización de queries]]

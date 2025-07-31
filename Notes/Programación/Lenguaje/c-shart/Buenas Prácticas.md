@@ -1,0 +1,6 @@
+ - [[Uso correcto del DbContext]]
+- [[Paginar, proyectar, evitar N+1]]
+- [[Transacciones, Unit of Work (opcional)]]
+- [[Manejo de concurrencia]]
+- [[Manejo de excepciones]]
+- [[Separación de capas y arquitectura limpia]]

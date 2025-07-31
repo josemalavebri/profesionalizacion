@@ -8,10 +8,8 @@
   "obsidian-file-color",
   "ninja-cursor",
   "omnisearch",
-  "file-explorer-plus",
   "dashboard-navigator",
   "tag-wrangler",
-  "heading-level-indent",
   "obsidian-style-settings",
   "file-explorer-note-count",
   "obsidian-minimal-settings",
@@ -19,5 +17,7 @@
   "obsidian-spaced-repetition",
   "obsidian-outliner",
   "recent-files-obsidian",
-  "bookmarks-caller"
+  "bookmarks-caller",
+  "file-explorer-plus",
+  "heading-level-indent"
 ]

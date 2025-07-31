@@ -1,36 +1,30 @@
 {
   "items": [
     {
-      "type": "group",
-      "ctime": 1753276098212,
-      "items": [
-        {
-          "type": "group",
-          "ctime": 1753281020118,
-          "items": [
-            {
-              "type": "file",
-              "ctime": 1753276081347,
-              "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-              "title": "Busquedas - cshart"
-            },
-            {
-              "type": "file",
-              "ctime": 1753276043092,
-              "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md",
-              "title": "cshart"
-            }
-          ],
-          "title": "c-shart"
-        }
-      ],
-      "title": "Lenguaje"
+      "type": "file",
+      "ctime": 1753276081347,
+      "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+      "title": "Busquedas - cshart"
     },
     {
-      "type": "group",
-      "ctime": 1753352637394,
-      "items": [],
-      "title": "Fundamentos"
+      "type": "file",
+      "ctime": 1753355125810,
+      "path": "Notes/Programación/Fundamentos/Fundamentos.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1753452299452,
+      "path": "Notes/Programación/Lenguaje/c-shart/Entity Framework Core.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1753470061078,
+      "path": "Notes/Programación/Angular/Angular.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1753841084712,
+      "path": "Notes/Programación/php/php.md"
     }
   ]
 }

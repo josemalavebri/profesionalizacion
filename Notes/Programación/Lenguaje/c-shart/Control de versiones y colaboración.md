@@ -1,3 +1,3 @@
-- [[c-shart - Git]]
-- [[c-shart - GitHub Copilot con C#]]
-- [[c-shart - Integración con GitHub desde Visual Studio]]
+- [[Git]]
+- [[GitHub Copilot con C#]]
+- [[Integración con GitHub desde Visual Studio]]

@@ -1,14 +1,14 @@
 {
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "showViewHeader": true,
   "theme": "obsidian",
   "textFontFamily": "Fira Sans,Fira Sans Four,Helvetica,Helvetica Rounded,Roboto",
   "interfaceFontFamily": "Roboto",
   "accentColor": "#f953bc",
   "showRibbon": false,
-  "nativeMenus": false,
+  "nativeMenus": true,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }

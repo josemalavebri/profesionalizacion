@@ -1,7 +1,7 @@
 + [[Frameworks]]
 + [[Herramientas]]
 + [[Biblioteca Estándar]]
-+ [[Notes/Programación/Lenguaje/c-shart/Fundamentos]]
++ [[Fundamento]]
 + [[Bibliotecas Externas]]
 + [[Conocimientos varios]]
 + [[Codigos]]

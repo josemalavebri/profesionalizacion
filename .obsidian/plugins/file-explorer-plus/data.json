@@ -29,21 +29,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Chat.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Central Main.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
+        "pattern": "Notes/Programación/Lenguaje/c-shart/Fundamento.md",
         "patternType": "STRICT"
       },
       {

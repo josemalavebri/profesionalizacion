@@ -5,7 +5,7 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": ".//ANEXOS",
   "promptDelete": false,
-  "focusNewTab": false,
+  "focusNewTab": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

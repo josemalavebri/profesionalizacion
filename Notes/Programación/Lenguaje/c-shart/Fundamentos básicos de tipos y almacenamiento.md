@@ -1,4 +1,4 @@
-- [[c-shart - Tipos de datos]]
-- [[c-shart - Variables]]
-- [[c-shart - Constantes]]
-- [[c-shart - Conversión de tipos]]
+- [[Tipos de datos]]
+- [[Variables]]
+- [[Constantes]]
+- [[Conversión de tipos]]

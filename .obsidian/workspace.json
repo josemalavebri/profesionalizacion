@@ -4,27 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "ad74c3edda1be558",
+        "id": "c16c5055f2658323",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6c30732e3c555f",
+            "id": "c4e897c0e790a127",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-                "viewState": {
-                  "x": 210,
-                  "y": 95,
-                  "zoom": -0.8080174685863043
-                }
+                "file": "Seguridad/Preguntas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "c-shart - busqueda"
+              "icon": "lucide-file",
+              "title": "Preguntas"
+            }
+          },
+          {
+            "id": "930a636dae348b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad/Preguntas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Preguntas"
+            }
+          },
+          {
+            "id": "e0be24243528f571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seguridad/Excalidraw Flujos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Excalidraw Flujos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,13 +68,13 @@
         "dimension": 66.57458563535911,
         "children": [
           {
-            "id": "c455cbd61beca620",
+            "id": "2b5276367069f476",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
             }
           },
           {
@@ -55,24 +84,40 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
             }
           },
           {
-            "id": "2b5276367069f476",
+            "id": "283cda37733127ed",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "search",
+              "state": {
+                "query": "tag:#review",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          },
+          {
+            "id": "448339eef08514a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Cola de notas a revisar"
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62274a0ab33054ac",
@@ -93,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 255.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -102,7 +147,6 @@
       {
         "id": "0123ad7ffbcf9280",
         "type": "tabs",
-        "dimension": 59.66057441253264,
         "children": [
           {
             "id": "4edb60e088d7f43d",
@@ -110,17 +154,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+                "file": "Notes/Programación/php/Fundamentos de PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de c-shart - busqueda"
+              "title": "Enlaces entrantes de Fundamentos de PHP"
             }
           }
         ]
@@ -128,7 +172,6 @@
       {
         "id": "b5daa11e56c2deea",
         "type": "tabs",
-        "dimension": 40.33942558746737,
         "children": [
           {
             "id": "aa245f2d6e04362c",
@@ -136,26 +179,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-                "linksCollapsed": true,
+                "file": "Notes/Programación/php/Fundamentos de PHP.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de c-shart - busqueda"
+              "title": "Enlaces salientes de Fundamentos de PHP"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
+    "width": 252.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Abrir nota al azar": false,
-      "graph:Abrir vista gráfica": false,
-      "daily-notes:Abrir la nota de hoy": false,
+      "random-note:Abrir nota al azar": true,
+      "graph:Abrir vista gráfica": true,
+      "daily-notes:Abrir la nota de hoy": true,
       "switcher:Abrir selector rápido": false,
       "canvas:Crear nuevo lienzo": false,
       "templates:Insertar plantilla": false,
@@ -170,55 +213,56 @@
       "bookmarks-caller:Search bookmarks": false
     }
   },
-  "active": "8372e0802167193c",
+  "active": "930a636dae348b12",
   "lastOpenFiles": [
-    "Notes/Programación/Lenguaje/c-shart/C-shart.md",
-    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-    "Notes/Programación/Fundamentos/Fundamentos.md",
-    "Central Main.md",
-    "Busquedas/Temas por investigar.md",
-    "Busquedas/Etiquetas.md",
-    "Notes/Programación/Fundamentos/Consejos.md",
+    "Seguridad/ANEXOS/Pasted image 20250731083359.png",
+    "Seguridad/P-Auditoria-Seguridad.md",
+    "Seguridad/Excalidraw Flujos.md",
+    "Seguridad/ANEXOS/Pasted image 20250731082850.png",
+    "Seguridad/ANEXOS/Pasted image 20250731082827.png",
+    "Seguridad/Preguntas.md",
+    "Seguridad/Recolección de requerimientos nuevos.md",
+    "Seguridad/Catálogo y el código.md",
+    "Seguridad/Preguntas - respondidas.md",
+    "Seguridad/ANEXOS/Pasted image 20250731082513.png",
+    "Seguridad/ANEXOS/Pasted image 20250731082504.png",
+    "Seguridad/ANEXOS/Pasted image 20250731082418.png",
+    "Seguridad/ANEXOS/Pasted image 20250731082346.png",
+    "Seguridad/ANEXOS/Pasted image 20250731082333.png",
+    "Seguridad/ANEXOS/Pasted image 20250731082129.png",
+    "Seguridad/ANEXOS/Pasted image 20250731081826.png",
+    "Seguridad/ANEXOS/Pasted image 20250731081516.png",
+    "Seguridad/ANEXOS",
+    "Cambios en el codigo.md",
     "Nota Diaria.md",
-    "README.md",
-    "Busquedas/Últimos archivos agregados.md",
-    "Busquedas/Temarios.md",
-    "Plantillas/Plantilla Documento.md",
-    "Busquedas/Estudios.md",
-    "Busquedas/Archivos arreglados.md",
+    "Seguridad/Requerimientos generales - mal.md",
+    "Notes/Programación/Lenguaje/c-shart/Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json.md",
+    "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md",
+    "Seguridad/Requerimientos extendidos - mal.md",
+    "Seguridad/Formulario - Preguntas - Grupos por categoría - mal.md",
+    "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md",
+    "Automatizacion web/Python/Entornos virtuales en Python.md",
+    "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md",
+    "Automatizacion web/Python/Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET.md",
+    "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md",
+    "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
+    "Notes/Programación/php/Fundamentos de PHP.md",
+    "Automatizacion web/Temario para automatizacion we.md",
+    "Notes/Programación/php/php.md",
+    "Notes/Programación/php/Framework PHP y Organización de Código.md",
+    "Notes/Programación/php/Objetos.md",
     "Plantillas/Plantilla Documento Code.md",
-    "Plantillas/Plantilla problemática.md",
-    "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
-    "Notes/Programación/Lenguaje/c-shart/Codigos.md",
-    "Notes/Programación/Lenguaje/c-shart/Sistema de Validación de Permisos y Horario para Empleados - Ejercicio.md",
-    "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md",
-    "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md",
-    "Notes/Programación/Lenguaje/c-shart/Herramientas.md",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
-    "Notes/Programación/Lenguaje/c-shart/Frameworks.md",
-    "Notes/Programación/Lenguaje/c-shart/Fundamentos.md",
-    "Notes/Programación/Lenguaje/Java/Java.md",
-    "Sin nombre",
-    "Repasos/Estudios Cortos 1",
-    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios",
-    "Notes/Programación/Lenguaje/c-shart/Practicas en el lenguaje",
-    "Repasos/Estudios Largos",
-    "Repasos/Estudios Cortos",
-    "Repasos",
-    "Notes/Programación/Lenguaje/Java/Frameworks",
-    "Notes/Programación/Lenguaje/Java/Fundamentos",
-    "Notes/Programación/Lenguaje/Java/Herramientas",
-    "ANEXOS/Pasted image 20250715090802.png",
-    "ANEXOS/Pasted image 20250715090745.png",
-    "ANEXOS/Pasted image 20250715090702.png",
-    "ANEXOS/Pasted image 20250715090649.png",
-    "ANEXOS/Pasted image 20250715090632.png",
-    "ANEXOS/Pasted image 20250715090615.png",
+    "Notes/Programación/php",
+    "Automatizacion web/Python",
+    "Automatizacion web",
+    "Notes/Programación/Angular/Proyecto web 1",
+    "Notes/Programación/Angular/Proyecto web/Sin nombre",
+    "Notes/Programación/Angular/Proyecto web",
+    "Busquedas/Lenguajes/c-shart - busqueda.canvas",
+    "Notes/Programación/Angular",
+    "Seguridad/Documetos",
+    "Seguridad",
     "Estudios.canvas",
-    "ANEXOS/Pasted image 20240623095357.png",
-    "ANEXOS/Pasted image 20240710114530.png",
-    "ANEXOS/Pasted image 20240813165606.png",
-    "ANEXOS/uml-class-diagram-relationships.webp",
     "Sin Orden/Sin título.canvas",
     "Programacion/Sin título.canvas",
     "Sin título 1.canvas",

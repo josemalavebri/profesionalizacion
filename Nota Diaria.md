@@ -1,13 +1,6 @@
-## Enlaces Rápidos
-+ [[Estudios Diarios]]
-+ [[Chat]]
-## Tenemos nodos vacíos
-
-## Nuevos ShortCuts 
-
-+ `win + ` Pone un punto rojo con el que se puede dibujar en pantalla
-+  `win + shift + a ` Extraer texto en pantalla
-## Nuevos Comandos en VSC
+## Importar el archivo de Comandos en VSC
 + [[Comandos de vsc]]
-
-
+## Nuevo review
++ Difícil - `alt + 1`
++ Bien - `alt + 2`
++ Fácil - `alt + 3`

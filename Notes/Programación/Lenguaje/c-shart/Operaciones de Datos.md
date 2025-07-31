@@ -1,0 +1,6 @@
+- [[Consultas (LINQ, Include)]]
+- [[Inserción, actualización, eliminación]]
+- [[Seguimiento y persistencia de cambios]]
+- [[Operaciones asíncronas]]
+- [[Consultas complejas y filtros avanzados]]
+- [[Proyecciones y consultas parciales]]
