@@ -1,2 +1,2 @@
-# profesionalizacion
+profesionalizacion
 Guardaré mis conocimientos aquí

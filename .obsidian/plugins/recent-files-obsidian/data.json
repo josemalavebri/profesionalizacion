@@ -1,8 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Nota Diaria",
+      "path": "Nota Diaria.md"
+    },
+    {
+      "basename": "Fundamentos básicos de tipos y almacenamiento",
+      "path": "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md"
+    },
+    {
+      "basename": "Java",
+      "path": "Notes/Programación/Lenguaje/Java/Java.md"
+    },
+    {
+      "basename": "Estructuras de controles",
+      "path": "Notes/Programación/Lenguaje/c-shart/Estructuras de controles.md"
+    },
+    {
+      "basename": "Asincronía y concurrencia",
+      "path": "Notes/Programación/Lenguaje/c-shart/Asincronía y concurrencia.md"
+    },
+    {
+      "basename": "Espacios y estructura del lenguaje",
+      "path": "Notes/Programación/Lenguaje/c-shart/Espacios y estructura del lenguaje.md"
+    },
+    {
+      "basename": "Funciones y Métodos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Funciones y Métodos.md"
+    },
+    {
+      "basename": "Fundamento",
+      "path": "Notes/Programación/Lenguaje/c-shart/Fundamento.md"
+    },
+    {
+      "basename": "POO",
+      "path": "Notes/Programación/Lenguaje/c-shart/POO.md"
+    },
+    {
+      "basename": "C-shart",
+      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
+    },
+    {
+      "basename": "Bibliotecas Externas",
+      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
+    },
+    {
+      "basename": "Biblioteca Estándar",
+      "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
+    },
+    {
+      "basename": "Codigos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Codigos.md"
+    },
+    {
+      "basename": "Conocimientos varios",
+      "path": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md"
+    },
+    {
+      "basename": "Frameworks",
+      "path": "Notes/Programación/Lenguaje/c-shart/Frameworks.md"
+    },
+    {
+      "basename": "Herramientas",
+      "path": "Notes/Programación/Lenguaje/c-shart/Herramientas.md"
+    },
+    {
+      "basename": "Programación",
+      "path": "Notes/Programación/Programación.md"
+    },
+    {
+      "basename": "Temas por investigar",
+      "path": "Busquedas/Temas por investigar.md"
+    },
+    {
+      "basename": "c-shart - busqueda",
+      "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
+    },
+    {
+      "basename": "Etiquetas",
+      "path": "Busquedas/Etiquetas.md"
+    },
+    {
+      "basename": "Plantilla Documento",
+      "path": "Plantillas/Plantilla Documento.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "P-Auditoria-Seguridad",
       "path": "Seguridad/P-Auditoria-Seguridad.md"
+    },
+    {
+      "basename": "Seguridad en APIs",
+      "path": "Notes/Programación/Lenguaje/c-shart/Seguridad en APIs.md"
+    },
+    {
+      "basename": "Plantilla problemática",
+      "path": "Plantillas/Plantilla problemática.md"
+    },
+    {
+      "basename": "Plantilla Documento Code",
+      "path": "Plantillas/Plantilla Documento Code.md"
+    },
+    {
+      "basename": "Cambios en el codigo",
+      "path": "Seguridad/Cambios en el codigo.md"
+    },
+    {
+      "basename": "Recomendaciones generales - Personales",
+      "path": "Seguridad/Recomendaciones generales - Personales.md"
     },
     {
       "basename": "Preguntas no respondidas",
@@ -29,24 +137,12 @@
       "path": "Seguridad/Excalidraw Flujos.md"
     },
     {
-      "basename": "Recomendaciones generales - Personales",
-      "path": "Seguridad/Recomendaciones generales - Personales.md"
-    },
-    {
       "basename": "ARCO",
       "path": "Seguridad/Documetos/ARCO.md"
     },
     {
-      "basename": "Nota Diaria",
-      "path": "Nota Diaria.md"
-    },
-    {
       "basename": "Requerimientos generales - Corregir",
       "path": "Seguridad/Requerimientos generales - Corregir.md"
-    },
-    {
-      "basename": "Cambios en el codigo",
-      "path": "Cambios en el codigo.md"
     },
     {
       "basename": "Preguntas - respondidas",
@@ -103,94 +199,6 @@
     {
       "basename": "Objetos",
       "path": "Notes/Programación/php/Objetos.md"
-    },
-    {
-      "basename": "Plantilla Documento Code",
-      "path": "Plantillas/Plantilla Documento Code.md"
-    },
-    {
-      "basename": "Plantilla Documento",
-      "path": "Plantillas/Plantilla Documento.md"
-    },
-    {
-      "basename": "Bases de Datos con PHP",
-      "path": "Notes/Programación/php/Bases de Datos con PHP.md"
-    },
-    {
-      "basename": "Fundamentos de Angular",
-      "path": "Notes/Programación/Angular/Fundamentos de Angular.md"
-    },
-    {
-      "basename": "Angular",
-      "path": "Notes/Programación/Angular/Angular.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "Automatizacion web/Python/Sin título.md"
-    },
-    {
-      "basename": "Comandos de vsc",
-      "path": "Comandos de vsc.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Espacios y estructura del lenguaje",
-      "path": "Notes/Programación/Lenguaje/c-shart/Espacios y estructura del lenguaje.md"
-    },
-    {
-      "basename": "Fundamento",
-      "path": "Notes/Programación/Lenguaje/c-shart/Fundamento.md"
-    },
-    {
-      "basename": "C-shart",
-      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
-    },
-    {
-      "basename": "Bibliotecas Externas",
-      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
-    },
-    {
-      "basename": "Biblioteca Estándar",
-      "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
-    },
-    {
-      "basename": "Diferencia entre HashSet y Array",
-      "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
-    },
-    {
-      "basename": "All de LINQ",
-      "path": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md"
-    },
-    {
-      "basename": "params en métodos de C",
-      "path": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md"
-    },
-    {
-      "basename": "Tipos de datos - Primitivos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
-    },
-    {
-      "basename": "P-Horizon-Web",
-      "path": "Notes/Programación/Angular/Proyecto web/P-Horizon-Web.md"
-    },
-    {
-      "basename": "Programación",
-      "path": "Notes/Programación/Programación.md"
-    },
-    {
-      "basename": "Temas por investigar",
-      "path": "Busquedas/Temas por investigar.md"
-    },
-    {
-      "basename": "c-shart - busqueda",
-      "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
-    },
-    {
-      "basename": "Entity Framework Core",
-      "path": "Notes/Programación/Lenguaje/c-shart/Entity Framework Core.md"
     }
   ],
   "omittedPaths": [],

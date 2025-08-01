@@ -7,4 +7,5 @@
 ## 29/07/25 - Actualidades 
 + [[Recolección de requerimientos nuevos]]
 + [[Preguntas no respondidas]]
-+ [[Recomendaciones generales - Personales]] #revisar 
++ [[Recomendaciones generales - Personales]] #revisar
++ [[Cambios en el codigo]]
