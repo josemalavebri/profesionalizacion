@@ -1,6 +1,6 @@
 ---
-sr-due: 2025-07-30
-sr-interval: 1
+sr-due: 2025-08-06
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -21,7 +21,7 @@ sr-ease: 230
 
 - Aritméticos: `+`, `-`, `*`, `/`, `%`.
 - Asignación: ` = `, ` += `, ` -= `, etc.
--  Comparación = = ,= = =, `!=`, `!==`, `<`, `>`, `<=`, `>=`.
+-  Comparación = = ,= = =, `!=`, `!==`, `<`, `>`, `<=`, `>=`. #estado-investigar
 - Lógicos: `&&`, `||`, `!`.
 - Incremento/Decremento: `++`, `--`.
 - Concatenación: `.`

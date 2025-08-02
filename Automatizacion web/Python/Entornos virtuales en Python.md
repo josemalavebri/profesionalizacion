@@ -1,6 +1,6 @@
 ---
-sr-due: 2025-07-30
-sr-interval: 1
+sr-due: 2025-08-06
+sr-interval: 5
 sr-ease: 230
 ---
 
@@ -19,7 +19,7 @@ sr-ease: 230
 	+ Esto crea un 
 		+ espacio aislado donde se instalan las dependencias exclusivamente para un proyecto.
 
-El entorno virtual se activa para que la consola o el proceso utilice ese intérprete local y sus librerías, no el global del sistema.
+> El entorno virtual se activa para que la consola o el proceso utilice ese intérprete local y sus librerías, no el global del sistema.
 ## Puntos clave
 - Python instala 
 	- un intérprete global accesible para todo el sistema.
@@ -37,14 +37,15 @@ El entorno virtual se activa para que la consola o el proceso utilice ese intér
 
 ## Características
 
-|   |   |
-|---|---|
-|Aislamiento|Intérprete y librerías propios por proyecto|
-|Activación|Manual, para cambiar el contexto al entorno|
-|Instalación de paquetes|Solo dentro del entorno virtual|
-|Ubicación|Carpeta del entorno, p.ej. `.venv/`|
-|Impacto en sistema|No afecta el Python ni librerías globales|
-|Compatibilidad|Compatible con cualquier versión de Python|
+|                         |                                             |
+| ----------------------- | ------------------------------------------- |
+| Aislamiento             | Intérprete y librerías propios por proyecto |
+| Activación              | Manual, para cambiar el contexto al entorno |
+| Instalación de paquetes | Solo dentro del entorno virtual             |
+| Ubicación               | Carpeta del entorno, p.ej. `.venv/`         |
+| Impacto en sistema      | No afecta el Python ni librerías globales   |
+| Compatibilidad          | Compatible con cualquier versión de Python  |
+|                         |                                             |
 
 ## Analogía
 

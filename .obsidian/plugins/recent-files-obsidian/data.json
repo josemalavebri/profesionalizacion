@@ -1,12 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "All de LINQ",
+      "path": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md"
+    },
+    {
       "basename": "Nota Diaria",
       "path": "Nota Diaria.md"
     },
     {
+      "basename": "estudio general",
+      "path": "Notes/Programación/php/estudio general.md"
+    },
+    {
+      "basename": "Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json",
+      "path": "Notes/Programación/Lenguaje/c-shart/Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json.md"
+    },
+    {
+      "basename": "Tipos de datos - Primitivos",
+      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
+    },
+    {
+      "basename": "Sintaxis Básica y Primeros Pasos",
+      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
+    },
+    {
+      "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
+      "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
+    },
+    {
+      "basename": "Entornos virtuales en Python",
+      "path": "Automatizacion web/Python/Entornos virtuales en Python.md"
+    },
+    {
+      "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
+      "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
+    },
+    {
+      "basename": "Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET",
+      "path": "Automatizacion web/Python/Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET.md"
+    },
+    {
+      "basename": "php",
+      "path": "Notes/Programación/php/php.md"
+    },
+    {
       "basename": "Fundamentos básicos de tipos y almacenamiento",
       "path": "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md"
+    },
+    {
+      "basename": "Fundamento",
+      "path": "Notes/Programación/Lenguaje/c-shart/Fundamento.md"
+    },
+    {
+      "basename": "Bibliotecas Externas",
+      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
+    },
+    {
+      "basename": "Biblioteca Estándar",
+      "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
+    },
+    {
+      "basename": "P-Auditoria-Seguridad",
+      "path": "Seguridad/P-Auditoria-Seguridad.md"
+    },
+    {
+      "basename": "Plantilla Documento Code",
+      "path": "Plantillas/Plantilla Documento Code.md"
+    },
+    {
+      "basename": "Plantilla problemática",
+      "path": "Plantillas/Plantilla problemática.md"
     },
     {
       "basename": "Java",
@@ -29,24 +93,12 @@
       "path": "Notes/Programación/Lenguaje/c-shart/Funciones y Métodos.md"
     },
     {
-      "basename": "Fundamento",
-      "path": "Notes/Programación/Lenguaje/c-shart/Fundamento.md"
-    },
-    {
       "basename": "POO",
       "path": "Notes/Programación/Lenguaje/c-shart/POO.md"
     },
     {
       "basename": "C-shart",
       "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
-    },
-    {
-      "basename": "Bibliotecas Externas",
-      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
-    },
-    {
-      "basename": "Biblioteca Estándar",
-      "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
     },
     {
       "basename": "Codigos",
@@ -89,20 +141,8 @@
       "path": "README.md"
     },
     {
-      "basename": "P-Auditoria-Seguridad",
-      "path": "Seguridad/P-Auditoria-Seguridad.md"
-    },
-    {
       "basename": "Seguridad en APIs",
       "path": "Notes/Programación/Lenguaje/c-shart/Seguridad en APIs.md"
-    },
-    {
-      "basename": "Plantilla problemática",
-      "path": "Plantillas/Plantilla problemática.md"
-    },
-    {
-      "basename": "Plantilla Documento Code",
-      "path": "Plantillas/Plantilla Documento Code.md"
     },
     {
       "basename": "Cambios en el codigo",
@@ -149,30 +189,6 @@
       "path": "Seguridad/Preguntas - respondidas.md"
     },
     {
-      "basename": "Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json",
-      "path": "Notes/Programación/Lenguaje/c-shart/Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json.md"
-    },
-    {
-      "basename": "Sintaxis Básica y Primeros Pasos",
-      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
-    },
-    {
-      "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
-      "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
-    },
-    {
-      "basename": "Entornos virtuales en Python",
-      "path": "Automatizacion web/Python/Entornos virtuales en Python.md"
-    },
-    {
-      "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
-      "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
-    },
-    {
-      "basename": "Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET",
-      "path": "Automatizacion web/Python/Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET.md"
-    },
-    {
       "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
       "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Fundamentos de PHP",
       "path": "Notes/Programación/php/Fundamentos de PHP.md"
-    },
-    {
-      "basename": "Temario para automatizacion we",
-      "path": "Automatizacion web/Temario para automatizacion we.md"
-    },
-    {
-      "basename": "php",
-      "path": "Notes/Programación/php/php.md"
-    },
-    {
-      "basename": "Framework PHP y Organización de Código",
-      "path": "Notes/Programación/php/Framework PHP y Organización de Código.md"
-    },
-    {
-      "basename": "Objetos",
-      "path": "Notes/Programación/php/Objetos.md"
     }
   ],
   "omittedPaths": [],

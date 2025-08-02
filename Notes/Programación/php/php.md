@@ -1,3 +1,4 @@
+[[estudio general]]
 - [[Fundamentos de PHP]]
 - [[Framework PHP y Organización de Código]]
 - [[Bases de Datos con PHP]]
