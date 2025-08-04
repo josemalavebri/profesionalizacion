@@ -30,3 +30,4 @@
     - [[PHP para Consumo de APIs Externas (cURL / file_get_contents)]]
     - [[Subida de Archivos desde Formularios]]
     - [[Despliegue en Hosting Compartido o VPS]]
++ [[Varios - php]]

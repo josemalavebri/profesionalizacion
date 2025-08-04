@@ -1,16 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "All de LINQ",
-      "path": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md"
+      "basename": "P-Auditoria-Seguridad",
+      "path": "Seguridad/P-Auditoria-Seguridad.md"
+    },
+    {
+      "basename": "Diagrama de BDD para - dbdiagram",
+      "path": "Seguridad/Diagrama de BDD para - dbdiagram.md"
+    },
+    {
+      "basename": "Documento de flujo organizacional de la institución",
+      "path": "Seguridad/Documento de flujo organizacional de la institución.md"
+    },
+    {
+      "basename": "Excalidraw Flujos",
+      "path": "Seguridad/Excalidraw Flujos.md"
     },
     {
       "basename": "Nota Diaria",
       "path": "Nota Diaria.md"
     },
     {
+      "basename": "25-07-25 a 28-07-25",
+      "path": "Seguridad/25-07-25 a 28-07-25.md"
+    },
+    {
+      "basename": "29-07-25 a 02-08-25",
+      "path": "Seguridad/29-07-25 a 02-08-25.md"
+    },
+    {
+      "basename": "Requisitos Generales",
+      "path": "Seguridad/Requisitos Generales.md"
+    },
+    {
+      "basename": "Requerimientos generales - Corregir",
+      "path": "Seguridad/Requerimientos generales - Corregir.md"
+    },
+    {
+      "basename": "Recolección de requerimientos nuevos",
+      "path": "Seguridad/Recolección de requerimientos nuevos.md"
+    },
+    {
       "basename": "estudio general",
       "path": "Notes/Programación/php/estudio general.md"
+    },
+    {
+      "basename": "php",
+      "path": "Notes/Programación/php/php.md"
+    },
+    {
+      "basename": "Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto",
+      "path": "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md"
+    },
+    {
+      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
+      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
+    },
+    {
+      "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
+      "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
+    },
+    {
+      "basename": "Diferencia entre HashSet y Array",
+      "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
+    },
+    {
+      "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
+      "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
+    },
+    {
+      "basename": "Sintaxis Básica y Primeros Pasos",
+      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
+    },
+    {
+      "basename": "params en métodos de C",
+      "path": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md"
+    },
+    {
+      "basename": "Varios - php",
+      "path": "Notes/Programación/php/Varios - php.md"
+    },
+    {
+      "basename": "documento nuevo",
+      "path": "documento nuevo.md"
+    },
+    {
+      "basename": "Objetos",
+      "path": "Notes/Programación/php/Objetos.md"
+    },
+    {
+      "basename": "All de LINQ",
+      "path": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md"
+    },
+    {
+      "basename": "Plantilla Documento",
+      "path": "Plantillas/Plantilla Documento.md"
     },
     {
       "basename": "Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json",
@@ -21,10 +105,6 @@
       "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
     },
     {
-      "basename": "Sintaxis Básica y Primeros Pasos",
-      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
-    },
-    {
       "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
       "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
     },
@@ -33,16 +113,8 @@
       "path": "Automatizacion web/Python/Entornos virtuales en Python.md"
     },
     {
-      "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
-      "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
-    },
-    {
       "basename": "Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET",
       "path": "Automatizacion web/Python/Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET.md"
-    },
-    {
-      "basename": "php",
-      "path": "Notes/Programación/php/php.md"
     },
     {
       "basename": "Fundamentos básicos de tipos y almacenamiento",
@@ -59,10 +131,6 @@
     {
       "basename": "Biblioteca Estándar",
       "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
-    },
-    {
-      "basename": "P-Auditoria-Seguridad",
-      "path": "Seguridad/P-Auditoria-Seguridad.md"
     },
     {
       "basename": "Plantilla Documento Code",
@@ -131,74 +199,6 @@
     {
       "basename": "Etiquetas",
       "path": "Busquedas/Etiquetas.md"
-    },
-    {
-      "basename": "Plantilla Documento",
-      "path": "Plantillas/Plantilla Documento.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Seguridad en APIs",
-      "path": "Notes/Programación/Lenguaje/c-shart/Seguridad en APIs.md"
-    },
-    {
-      "basename": "Cambios en el codigo",
-      "path": "Seguridad/Cambios en el codigo.md"
-    },
-    {
-      "basename": "Recomendaciones generales - Personales",
-      "path": "Seguridad/Recomendaciones generales - Personales.md"
-    },
-    {
-      "basename": "Preguntas no respondidas",
-      "path": "Seguridad/Preguntas no respondidas.md"
-    },
-    {
-      "basename": "Recolección de requerimientos nuevos",
-      "path": "Seguridad/Recolección de requerimientos nuevos.md"
-    },
-    {
-      "basename": "Terminados de analizar",
-      "path": "Seguridad/Terminados de analizar.md"
-    },
-    {
-      "basename": "Requerimientos extendidos - mal",
-      "path": "Seguridad/Requerimientos extendidos - mal.md"
-    },
-    {
-      "basename": "Formulario - Preguntas - Grupos por categoría - Corregido",
-      "path": "Seguridad/Formulario - Preguntas - Grupos por categoría - Corregido.md"
-    },
-    {
-      "basename": "Excalidraw Flujos",
-      "path": "Seguridad/Excalidraw Flujos.md"
-    },
-    {
-      "basename": "ARCO",
-      "path": "Seguridad/Documetos/ARCO.md"
-    },
-    {
-      "basename": "Requerimientos generales - Corregir",
-      "path": "Seguridad/Requerimientos generales - Corregir.md"
-    },
-    {
-      "basename": "Preguntas - respondidas",
-      "path": "Seguridad/Preguntas - respondidas.md"
-    },
-    {
-      "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
-      "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
-    },
-    {
-      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
-      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
-    },
-    {
-      "basename": "Fundamentos de PHP",
-      "path": "Notes/Programación/php/Fundamentos de PHP.md"
     }
   ],
   "omittedPaths": [],

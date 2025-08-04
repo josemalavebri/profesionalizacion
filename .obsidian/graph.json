@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:Notes/Programación/Lenguaje/Java  ",
+  "search": "    path:Seguridad   ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 0.738020833333333,
   "lineSizeMultiplier": 1.12083333333333,
   "collapse-forces": false,
-  "centerStrength": 0.5625,
+  "centerStrength": 0.498107606679035,
   "repelStrength": 7.60416666666667,
   "linkStrength": 0.848958333333333,
   "linkDistance": 123,
-  "scale": 0.5863949095055223,
-  "close": true
+  "scale": 2.0138114648812238,
+  "close": false
 }

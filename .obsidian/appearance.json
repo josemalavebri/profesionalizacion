@@ -8,7 +8,7 @@
   "interfaceFontFamily": "Roboto",
   "accentColor": "#f953bc",
   "showRibbon": false,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "FiraCode Nerd Font Mono"
 }
