@@ -5,20 +5,88 @@
       "path": "Seguridad/P-Auditoria-Seguridad.md"
     },
     {
-      "basename": "Diagrama de BDD para - dbdiagram",
-      "path": "Seguridad/Diagrama de BDD para - dbdiagram.md"
+      "basename": "Roles por asignar",
+      "path": "Seguridad/Roles por asignar.md"
     },
     {
-      "basename": "Documento de flujo organizacional de la institución",
-      "path": "Seguridad/Documento de flujo organizacional de la institución.md"
+      "basename": "Borradores - Dibujados - Diagramas",
+      "path": "Seguridad/Borradores - Dibujados - Diagramas.md"
     },
     {
-      "basename": "Excalidraw Flujos",
-      "path": "Seguridad/Excalidraw Flujos.md"
+      "basename": "Diagrama de actividad simple",
+      "path": "Seguridad/Diagrama de actividad simple.md"
+    },
+    {
+      "basename": "Codigo de BDD para - dbdiagram",
+      "path": "Seguridad/Codigo de BDD para - dbdiagram.md"
+    },
+    {
+      "basename": "Requisitos Generales",
+      "path": "Seguridad/Requisitos Generales.md"
+    },
+    {
+      "basename": "Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto",
+      "path": "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md"
     },
     {
       "basename": "Nota Diaria",
       "path": "Nota Diaria.md"
+    },
+    {
+      "basename": "estudio general",
+      "path": "Notes/Programación/php/estudio general.md"
+    },
+    {
+      "basename": "Varios - php",
+      "path": "Notes/Programación/php/Varios - php.md"
+    },
+    {
+      "basename": "php",
+      "path": "Notes/Programación/php/php.md"
+    },
+    {
+      "basename": "Fundamentos de PHP",
+      "path": "Notes/Programación/php/Fundamentos de PHP.md"
+    },
+    {
+      "basename": "Objetos",
+      "path": "Notes/Programación/php/Objetos.md"
+    },
+    {
+      "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
+      "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
+    },
+    {
+      "basename": "Sintaxis Básica y Primeros Pasos",
+      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
+    },
+    {
+      "basename": "Framework PHP y Organización de Código",
+      "path": "Notes/Programación/php/Framework PHP y Organización de Código.md"
+    },
+    {
+      "basename": "Diferencia entre HashSet y Array",
+      "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
+    },
+    {
+      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
+      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
+    },
+    {
+      "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
+      "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
+    },
+    {
+      "basename": "Parámetro params en C-shart",
+      "path": "Notes/Programación/Lenguaje/c-shart/Parámetro params en C-shart.md"
+    },
+    {
+      "basename": "Pasted image 20250803210441",
+      "path": "Seguridad/ANEXOS/Pasted image 20250803210441.png"
+    },
+    {
+      "basename": "Documento de flujo organizacional de la institución",
+      "path": "Seguridad/Documento de flujo organizacional de la institución.md"
     },
     {
       "basename": "25-07-25 a 28-07-25",
@@ -29,10 +97,6 @@
       "path": "Seguridad/29-07-25 a 02-08-25.md"
     },
     {
-      "basename": "Requisitos Generales",
-      "path": "Seguridad/Requisitos Generales.md"
-    },
-    {
       "basename": "Requerimientos generales - Corregir",
       "path": "Seguridad/Requerimientos generales - Corregir.md"
     },
@@ -41,52 +105,12 @@
       "path": "Seguridad/Recolección de requerimientos nuevos.md"
     },
     {
-      "basename": "estudio general",
-      "path": "Notes/Programación/php/estudio general.md"
-    },
-    {
-      "basename": "php",
-      "path": "Notes/Programación/php/php.md"
-    },
-    {
-      "basename": "Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto",
-      "path": "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md"
-    },
-    {
-      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
-      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
-    },
-    {
       "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
       "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
     },
     {
-      "basename": "Diferencia entre HashSet y Array",
-      "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
-    },
-    {
-      "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
-      "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
-    },
-    {
-      "basename": "Sintaxis Básica y Primeros Pasos",
-      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
-    },
-    {
-      "basename": "params en métodos de C",
-      "path": "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md"
-    },
-    {
-      "basename": "Varios - php",
-      "path": "Notes/Programación/php/Varios - php.md"
-    },
-    {
       "basename": "documento nuevo",
       "path": "documento nuevo.md"
-    },
-    {
-      "basename": "Objetos",
-      "path": "Notes/Programación/php/Objetos.md"
     },
     {
       "basename": "All de LINQ",
@@ -103,10 +127,6 @@
     {
       "basename": "Tipos de datos - Primitivos",
       "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
-    },
-    {
-      "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
-      "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
     },
     {
       "basename": "Entornos virtuales en Python",
@@ -179,26 +199,6 @@
     {
       "basename": "Frameworks",
       "path": "Notes/Programación/Lenguaje/c-shart/Frameworks.md"
-    },
-    {
-      "basename": "Herramientas",
-      "path": "Notes/Programación/Lenguaje/c-shart/Herramientas.md"
-    },
-    {
-      "basename": "Programación",
-      "path": "Notes/Programación/Programación.md"
-    },
-    {
-      "basename": "Temas por investigar",
-      "path": "Busquedas/Temas por investigar.md"
-    },
-    {
-      "basename": "c-shart - busqueda",
-      "path": "Busquedas/Lenguajes/c-shart - busqueda.canvas"
-    },
-    {
-      "basename": "Etiquetas",
-      "path": "Busquedas/Etiquetas.md"
     }
   ],
   "omittedPaths": [],

@@ -6,7 +6,7 @@
 + [[Bitwise OR en enums con Flags]]
 + [[Validación de pertenencia con All y Contains]]  
 - [[HashSet en C#]] 
-- [[params en métodos de C#]]  
+- [[Parámetro params en C-shart#]]  
 - [[Método Contains en colecciones]]
 - [[Expresión lambda en LINQ]]  
 - [[All de LINQ]]  

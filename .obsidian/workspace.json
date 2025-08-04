@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1237bc1cc24914f",
+        "id": "0b234a060345dc58",
         "type": "tabs",
         "children": [
           {
-            "id": "a76dad51068ba825",
+            "id": "c26f7faabe5cf70b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +86,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62274a0ab33054ac",
@@ -107,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -182,39 +184,43 @@
       "bookmarks-caller:Search bookmarks": false
     }
   },
-  "active": "a76dad51068ba825",
+  "active": "c26f7faabe5cf70b",
   "lastOpenFiles": [
-    "Seguridad/Diagrama de BDD para - dbdiagram.md",
+    "Seguridad/Roles por asignar.md",
     "Seguridad/P-Auditoria-Seguridad.md",
-    "Seguridad/Documento de flujo organizacional de la institución.md",
-    "Seguridad/Excalidraw Flujos.md",
+    "Seguridad/Borradores - Dibujados - Diagramas.md",
+    "Seguridad/Diagrama de actividad simple.md",
+    "Seguridad/Codigo de BDD para - dbdiagram.md",
+    "Seguridad/Requisitos Generales.md",
+    "Seguridad/ANEXOS/Pasted image 20250804084752.png",
+    "Seguridad/ANEXOS/Pasted image 20250804084645.png",
+    "Seguridad/ANEXOS/Pasted image 20250804084534.png",
+    "Seguridad/ANEXOS/Pasted image 20250804084429.png",
+    "Seguridad/ANEXOS/Pasted image 20250804084155.png",
+    "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md",
     "Nota Diaria.md",
+    "Notes/Programación/php/estudio general.md",
+    "Notes/Programación/php/Varios - php.md",
+    "Notes/Programación/php/php.md",
+    "Notes/Programación/php/Fundamentos de PHP.md",
+    "Notes/Programación/php/Objetos.md",
+    "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md",
+    "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md",
+    "Notes/Programación/php/Framework PHP y Organización de Código.md",
+    "Seguridad/ANEXOS/Imagen - Diagrama de BDD - Proyecto-Auditoria-Seguridad.png",
+    "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
+    "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
+    "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md",
+    "Notes/Programación/Lenguaje/c-shart/Parámetro params en C-shart.md",
+    "Seguridad/ANEXOS/Pasted image 20250803210441.png",
+    "Seguridad/Documento de flujo organizacional de la institución.md",
     "Seguridad/25-07-25 a 28-07-25.md",
     "Seguridad/29-07-25 a 02-08-25.md",
-    "Seguridad/Requisitos Generales.md",
     "Seguridad/Requerimientos generales - Corregir.md",
     "Seguridad/Recolección de requerimientos nuevos.md",
     "Seguridad/ANEXOS/Pasted image 20250803172025.png",
     "Seguridad/ANEXOS/Pasted image 20250803171839.png",
     "Seguridad/ANEXOS/Imagen - Diagrama de BDD - Proyecto-Auditoria-Seguridad (un seguimiento a cada respuesta).png",
-    "Seguridad/ANEXOS/Imagen - Diagrama de BDD - Proyecto-Auditoria-Seguridad (un seguimiento a cada encuesta).png",
-    "Seguridad/ANEXOS/Pasted image 20250803170003.png",
-    "Notes/Programación/php/estudio general.md",
-    "Notes/Programación/php/php.md",
-    "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md",
-    "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
-    "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md",
-    "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
-    "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md",
-    "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md",
-    "Notes/Programación/Lenguaje/c-shart/params en métodos de C.md",
-    "Notes/Programación/php/Varios - php.md",
-    "documento nuevo.md",
-    "Notes/Programación/php/Objetos.md",
-    "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
-    "Plantillas/Plantilla Documento.md",
-    "Notes/Programación/Lenguaje/c-shart/Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json.md",
-    "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Flujo de la aplicacion - Excalidraw.excalidraw.crswap",
     "Untitled-2025-07-14-1319.excalidraw.crswap",
@@ -222,11 +228,6 @@
     "Flujo de la aplicacion - Excalidraw.excalidraw",
     "25/07",
     "25",
-    "Seguridad/ANEXOS/Pasted image 20250731083359.png",
-    "Seguridad/ANEXOS/Pasted image 20250731082850.png",
-    "Seguridad/ANEXOS/Pasted image 20250731082827.png",
-    "Seguridad/ANEXOS/Pasted image 20250731082513.png",
-    "Seguridad/ANEXOS/Pasted image 20250731082504.png",
     "Seguridad/ANEXOS",
     "Notes/Programación/php",
     "Automatizacion web/Python",
