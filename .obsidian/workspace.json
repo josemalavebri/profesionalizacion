@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b234a060345dc58",
+        "id": "5f853e9dc27e7af2",
         "type": "tabs",
         "children": [
           {
-            "id": "c26f7faabe5cf70b",
+            "id": "76a58cb598786a09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,8 +86,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "62274a0ab33054ac",
@@ -108,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -184,43 +182,43 @@
       "bookmarks-caller:Search bookmarks": false
     }
   },
-  "active": "c26f7faabe5cf70b",
+  "active": "76a58cb598786a09",
   "lastOpenFiles": [
-    "Seguridad/Roles por asignar.md",
+    "Seguridad/Diagrama bdd.md",
+    "Seguridad/ANEXOS/Pasted image 20250807065346.png",
+    "Seguridad/ANEXOS/Pasted image 20250807065126.png",
+    "Seguridad/ANEXOS/Pasted image 20250807064941.png",
+    "Seguridad/ANEXOS/Pasted image 20250807064345.png",
     "Seguridad/P-Auditoria-Seguridad.md",
+    "Nota Diaria.md",
     "Seguridad/Borradores - Dibujados - Diagramas.md",
-    "Seguridad/Diagrama de actividad simple.md",
-    "Seguridad/Codigo de BDD para - dbdiagram.md",
     "Seguridad/Requisitos Generales.md",
+    "Seguridad/Codigo de BDD para - dbdiagram.md",
+    "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md",
+    "Busquedas/Temas por investigar.md",
+    "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
+    "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md",
+    "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md",
+    "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
+    "Notes/Programación/php/c-shart - Enums.md",
+    "Notes/Programación/php/Sin título.md",
+    "Seguridad/documento.md",
+    "Notes/Programación/php/php.md",
+    "Seguridad/Roles por asignar.md",
+    "Seguridad/Diagrama de actividad simple.md",
     "Seguridad/ANEXOS/Pasted image 20250804084752.png",
     "Seguridad/ANEXOS/Pasted image 20250804084645.png",
     "Seguridad/ANEXOS/Pasted image 20250804084534.png",
     "Seguridad/ANEXOS/Pasted image 20250804084429.png",
     "Seguridad/ANEXOS/Pasted image 20250804084155.png",
-    "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md",
-    "Nota Diaria.md",
     "Notes/Programación/php/estudio general.md",
     "Notes/Programación/php/Varios - php.md",
-    "Notes/Programación/php/php.md",
     "Notes/Programación/php/Fundamentos de PHP.md",
     "Notes/Programación/php/Objetos.md",
-    "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md",
-    "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md",
     "Notes/Programación/php/Framework PHP y Organización de Código.md",
     "Seguridad/ANEXOS/Imagen - Diagrama de BDD - Proyecto-Auditoria-Seguridad.png",
-    "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
-    "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
     "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md",
     "Notes/Programación/Lenguaje/c-shart/Parámetro params en C-shart.md",
-    "Seguridad/ANEXOS/Pasted image 20250803210441.png",
-    "Seguridad/Documento de flujo organizacional de la institución.md",
-    "Seguridad/25-07-25 a 28-07-25.md",
-    "Seguridad/29-07-25 a 02-08-25.md",
-    "Seguridad/Requerimientos generales - Corregir.md",
-    "Seguridad/Recolección de requerimientos nuevos.md",
-    "Seguridad/ANEXOS/Pasted image 20250803172025.png",
-    "Seguridad/ANEXOS/Pasted image 20250803171839.png",
-    "Seguridad/ANEXOS/Imagen - Diagrama de BDD - Proyecto-Auditoria-Seguridad (un seguimiento a cada respuesta).png",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
     "Flujo de la aplicacion - Excalidraw.excalidraw.crswap",
     "Untitled-2025-07-14-1319.excalidraw.crswap",

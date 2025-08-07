@@ -5,7 +5,6 @@ sr-ease: 230
 ---
 
 #tipo-documento #review  
-
 ## Puntos clave
 **Variables y constantes**
 - Toda variable comienza con `$`.
@@ -21,7 +20,7 @@ sr-ease: 230
 
 - Aritméticos: `+`, `-`, `*`, `/`, `%`.
 - Asignación: ` = `, ` += `, ` -= `, etc.
--  Comparación = = ,= = =, `!=`, `!==`, `<`, `>`, `<=`, `>=`. #estado-investigar
+-  Comparación = = ,= = =, `!=`, `!==`, `<`, `>`, `<=`, `>=`.
 - Lógicos: `&&`, `||`, `!`.
 - Incremento/Decremento: `++`, `--`.
 - Concatenación: `.`

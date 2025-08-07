@@ -5,32 +5,68 @@
       "path": "Seguridad/P-Auditoria-Seguridad.md"
     },
     {
-      "basename": "Roles por asignar",
-      "path": "Seguridad/Roles por asignar.md"
+      "basename": "Diagrama bdd",
+      "path": "Seguridad/Diagrama bdd.md"
+    },
+    {
+      "basename": "Nota Diaria",
+      "path": "Nota Diaria.md"
     },
     {
       "basename": "Borradores - Dibujados - Diagramas",
       "path": "Seguridad/Borradores - Dibujados - Diagramas.md"
     },
     {
-      "basename": "Diagrama de actividad simple",
-      "path": "Seguridad/Diagrama de actividad simple.md"
+      "basename": "Requisitos Generales",
+      "path": "Seguridad/Requisitos Generales.md"
     },
     {
       "basename": "Codigo de BDD para - dbdiagram",
       "path": "Seguridad/Codigo de BDD para - dbdiagram.md"
     },
     {
-      "basename": "Requisitos Generales",
-      "path": "Seguridad/Requisitos Generales.md"
+      "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
+      "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
+    },
+    {
+      "basename": "Temas por investigar",
+      "path": "Busquedas/Temas por investigar.md"
+    },
+    {
+      "basename": "Diferencia entre HashSet y Array",
+      "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
+    },
+    {
+      "basename": "Sintaxis Básica y Primeros Pasos",
+      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
     },
     {
       "basename": "Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto",
       "path": "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md"
     },
     {
-      "basename": "Nota Diaria",
-      "path": "Nota Diaria.md"
+      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
+      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
+    },
+    {
+      "basename": "c-shart - Enums",
+      "path": "Notes/Programación/php/c-shart - Enums.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "Notes/Programación/php/Sin título.md"
+    },
+    {
+      "basename": "documento",
+      "path": "Seguridad/documento.md"
+    },
+    {
+      "basename": "Roles por asignar",
+      "path": "Seguridad/Roles por asignar.md"
+    },
+    {
+      "basename": "Diagrama de actividad simple",
+      "path": "Seguridad/Diagrama de actividad simple.md"
     },
     {
       "basename": "estudio general",
@@ -41,10 +77,6 @@
       "path": "Notes/Programación/php/Varios - php.md"
     },
     {
-      "basename": "php",
-      "path": "Notes/Programación/php/php.md"
-    },
-    {
       "basename": "Fundamentos de PHP",
       "path": "Notes/Programación/php/Fundamentos de PHP.md"
     },
@@ -53,24 +85,8 @@
       "path": "Notes/Programación/php/Objetos.md"
     },
     {
-      "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
-      "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
-    },
-    {
-      "basename": "Sintaxis Básica y Primeros Pasos",
-      "path": "Notes/Programación/php/Sintaxis Básica y Primeros Pasos.md"
-    },
-    {
       "basename": "Framework PHP y Organización de Código",
       "path": "Notes/Programación/php/Framework PHP y Organización de Código.md"
-    },
-    {
-      "basename": "Diferencia entre HashSet y Array",
-      "path": "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md"
-    },
-    {
-      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
-      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
     },
     {
       "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
@@ -183,26 +199,11 @@
     {
       "basename": "POO",
       "path": "Notes/Programación/Lenguaje/c-shart/POO.md"
-    },
-    {
-      "basename": "C-shart",
-      "path": "Notes/Programación/Lenguaje/c-shart/C-shart.md"
-    },
-    {
-      "basename": "Codigos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Codigos.md"
-    },
-    {
-      "basename": "Conocimientos varios",
-      "path": "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md"
-    },
-    {
-      "basename": "Frameworks",
-      "path": "Notes/Programación/Lenguaje/c-shart/Frameworks.md"
     }
   ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
-  "omitBookmarks": false
+  "omitBookmarks": false,
+  "maxLength": null
 }

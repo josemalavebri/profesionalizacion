@@ -10,3 +10,6 @@
 + [[Requisitos Generales]]
 + [[Codigo de BDD para - dbdiagram]]
 + [[Roles por asignar]]
+
+## 07/08/25 - Actualidad
+[[Diagrama bdd]]
