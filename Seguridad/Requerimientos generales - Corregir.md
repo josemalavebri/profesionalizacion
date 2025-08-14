@@ -4,7 +4,6 @@ sr-interval: 8
 sr-ease: 230
 ---
 
-#review 
 ### Revisión - Módulo de Gestión de Áreas
 **Funcionalidad clave:**
 - Registrar y editar áreas de la facultad 

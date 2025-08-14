@@ -1,36 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "P-Auditoria-Seguridad",
-      "path": "Seguridad/P-Auditoria-Seguridad.md"
+      "basename": "Fundamentos de Angular",
+      "path": "Notes/Programación/Angular/Fundamentos de Angular.md"
     },
     {
-      "basename": "Diagrama bdd",
-      "path": "Seguridad/Diagrama bdd.md"
+      "basename": "Angular",
+      "path": "Notes/Programación/Angular/Angular.md"
+    },
+    {
+      "basename": "Estructura de una aplicación angular",
+      "path": "Notes/Programación/Angular/Estructura de una aplicación angular.md"
+    },
+    {
+      "basename": "Directivas Angular",
+      "path": "Notes/Programación/Angular/Directivas Angular.md"
+    },
+    {
+      "basename": "Ciclo de Vida de Componentes",
+      "path": "Notes/Programación/Angular/Ciclo de Vida de Componentes.md"
+    },
+    {
+      "basename": "Ubicación de la lógica de filtrado en SP vs. capa de servicio",
+      "path": "Notes/Programación/Arquitectura/Ubicación de la lógica de filtrado en SP vs. capa de servicio.md"
+    },
+    {
+      "basename": "Framework Angular",
+      "path": "Notes/Programación/Angular/Framework Angular.md"
+    },
+    {
+      "basename": "Herramientas Angular",
+      "path": "Notes/Programación/Angular/Herramientas Angular.md"
+    },
+    {
+      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
+      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
+    },
+    {
+      "basename": "Angular way",
+      "path": "Notes/Programación/Angular/Angular way.md"
+    },
+    {
+      "basename": "Comparativa de eficiencia en búsquedas HashSet vs List",
+      "path": "Notes/Programación/Lenguaje/c-shart/Comparativa de eficiencia en búsquedas HashSet vs List.md"
+    },
+    {
+      "basename": "Standalone vs módulos",
+      "path": "Notes/Programación/Angular/Standalone vs módulos.md"
+    },
+    {
+      "basename": "Plantilla Documento",
+      "path": "Plantillas/Plantilla Documento.md"
+    },
+    {
+      "basename": "Varios - angular",
+      "path": "Notes/Programación/Angular/Varios - angular.md"
     },
     {
       "basename": "Nota Diaria",
       "path": "Nota Diaria.md"
     },
     {
-      "basename": "Borradores - Dibujados - Diagramas",
-      "path": "Seguridad/Borradores - Dibujados - Diagramas.md"
+      "basename": "Plantilla Lectura",
+      "path": "Plantillas/Plantilla Lectura.md"
     },
     {
-      "basename": "Requisitos Generales",
-      "path": "Seguridad/Requisitos Generales.md"
+      "basename": "Data Binding en Angular",
+      "path": "Notes/Programación/Angular/Data Binding en Angular.md"
     },
     {
-      "basename": "Codigo de BDD para - dbdiagram",
-      "path": "Seguridad/Codigo de BDD para - dbdiagram.md"
+      "basename": "MVVM en angular",
+      "path": "Notes/Programación/Angular/MVVM en angular.md"
+    },
+    {
+      "basename": "Bidireccionalidad Angular",
+      "path": "Notes/Programación/Angular/Bidireccionalidad Angular.md"
+    },
+    {
+      "basename": "Arquitectura de componentes",
+      "path": "Notes/Programación/Angular/Arquitectura de componentes.md"
+    },
+    {
+      "basename": "estudio general",
+      "path": "Notes/Programación/php/estudio general.md"
+    },
+    {
+      "basename": "Requerimientos generales - Corregir",
+      "path": "Seguridad/Requerimientos generales - Corregir.md"
     },
     {
       "basename": "Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP",
       "path": "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md"
     },
     {
-      "basename": "Temas por investigar",
-      "path": "Busquedas/Temas por investigar.md"
+      "basename": "Entornos virtuales en Python",
+      "path": "Automatizacion web/Python/Entornos virtuales en Python.md"
+    },
+    {
+      "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
+      "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
+    },
+    {
+      "basename": "Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET",
+      "path": "Automatizacion web/Python/Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET.md"
     },
     {
       "basename": "Diferencia entre HashSet y Array",
@@ -45,160 +117,88 @@
       "path": "Notes/Programación/php/Fundamentos y conceptos clave sobre PHP, Apache, MySQL y su uso conjunto.md"
     },
     {
-      "basename": "Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews",
-      "path": "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md"
+      "basename": "Arquitectura General",
+      "path": "Notes/Programación/Angular/Arquitectura General.md"
     },
     {
-      "basename": "c-shart - Enums",
-      "path": "Notes/Programación/php/c-shart - Enums.md"
+      "basename": "Bibliotecas Estándar y Oficiales",
+      "path": "Notes/Programación/Angular/Bibliotecas Estándar y Oficiales.md"
     },
     {
-      "basename": "Sin título",
-      "path": "Notes/Programación/php/Sin título.md"
-    },
-    {
-      "basename": "documento",
-      "path": "Seguridad/documento.md"
-    },
-    {
-      "basename": "Roles por asignar",
-      "path": "Seguridad/Roles por asignar.md"
-    },
-    {
-      "basename": "Diagrama de actividad simple",
-      "path": "Seguridad/Diagrama de actividad simple.md"
-    },
-    {
-      "basename": "estudio general",
-      "path": "Notes/Programación/php/estudio general.md"
-    },
-    {
-      "basename": "Varios - php",
-      "path": "Notes/Programación/php/Varios - php.md"
-    },
-    {
-      "basename": "Fundamentos de PHP",
-      "path": "Notes/Programación/php/Fundamentos de PHP.md"
-    },
-    {
-      "basename": "Objetos",
-      "path": "Notes/Programación/php/Objetos.md"
-    },
-    {
-      "basename": "Framework PHP y Organización de Código",
-      "path": "Notes/Programación/php/Framework PHP y Organización de Código.md"
-    },
-    {
-      "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
-      "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
-    },
-    {
-      "basename": "Parámetro params en C-shart",
-      "path": "Notes/Programación/Lenguaje/c-shart/Parámetro params en C-shart.md"
-    },
-    {
-      "basename": "Pasted image 20250803210441",
-      "path": "Seguridad/ANEXOS/Pasted image 20250803210441.png"
-    },
-    {
-      "basename": "Documento de flujo organizacional de la institución",
-      "path": "Seguridad/Documento de flujo organizacional de la institución.md"
-    },
-    {
-      "basename": "25-07-25 a 28-07-25",
-      "path": "Seguridad/25-07-25 a 28-07-25.md"
-    },
-    {
-      "basename": "29-07-25 a 02-08-25",
-      "path": "Seguridad/29-07-25 a 02-08-25.md"
-    },
-    {
-      "basename": "Requerimientos generales - Corregir",
-      "path": "Seguridad/Requerimientos generales - Corregir.md"
-    },
-    {
-      "basename": "Recolección de requerimientos nuevos",
-      "path": "Seguridad/Recolección de requerimientos nuevos.md"
-    },
-    {
-      "basename": "Procesamiento del Código PHP y Generación de Contenido Dinámico",
-      "path": "Notes/Programación/php/Procesamiento del Código PHP y Generación de Contenido Dinámico.md"
+      "basename": "Mejores extensiones para HTML, CSS y JS en Visual Studio Code",
+      "path": "Mejores extensiones para HTML, CSS y JS en Visual Studio Code.md"
     },
     {
       "basename": "documento nuevo",
       "path": "documento nuevo.md"
     },
     {
-      "basename": "All de LINQ",
-      "path": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md"
+      "basename": "Conocimientos Varios Angular",
+      "path": "Notes/Programación/Angular/Conocimientos Varios Angular.md"
     },
     {
-      "basename": "Plantilla Documento",
-      "path": "Plantillas/Plantilla Documento.md"
+      "basename": "Bibliotecas Externas Complementarias",
+      "path": "Notes/Programación/Angular/Bibliotecas Externas Complementarias.md"
     },
     {
       "basename": "Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json",
       "path": "Notes/Programación/Lenguaje/c-shart/Uso de JsonIgnore para evitar ciclos en la serialización JSON con System.Text.Json.md"
     },
     {
-      "basename": "Tipos de datos - Primitivos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Tipos de datos - Primitivos.md"
+      "basename": "Objetos",
+      "path": "Notes/Programación/php/Objetos.md"
     },
     {
-      "basename": "Entornos virtuales en Python",
-      "path": "Automatizacion web/Python/Entornos virtuales en Python.md"
+      "basename": "Parámetro params en C-shart",
+      "path": "Notes/Programación/Lenguaje/c-shart/Parámetro params en C-shart.md"
     },
     {
-      "basename": "Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET",
-      "path": "Automatizacion web/Python/Comparación del manejo de dependencias entre Python (entornos virtuales), Angular y .NET.md"
+      "basename": "Formulario - Preguntas - Grupos por categoría - Corregido",
+      "path": "Seguridad/Formulario - Preguntas - Grupos por categoría - Corregido.md"
     },
     {
-      "basename": "Fundamentos básicos de tipos y almacenamiento",
-      "path": "Notes/Programación/Lenguaje/c-shart/Fundamentos básicos de tipos y almacenamiento.md"
+      "basename": "Preguntas - respondidas",
+      "path": "Seguridad/Preguntas - respondidas.md"
     },
     {
-      "basename": "Fundamento",
-      "path": "Notes/Programación/Lenguaje/c-shart/Fundamento.md"
+      "basename": "ARCO",
+      "path": "Seguridad/Documetos/ARCO.md"
     },
     {
-      "basename": "Bibliotecas Externas",
-      "path": "Notes/Programación/Lenguaje/c-shart/Bibliotecas Externas.md"
+      "basename": "Procedimiento para el Ejercicio de los Derechos ARCO",
+      "path": "Seguridad/Documetos/Procedimiento para el Ejercicio de los Derechos ARCO.md"
     },
     {
-      "basename": "Biblioteca Estándar",
-      "path": "Notes/Programación/Lenguaje/c-shart/Biblioteca Estándar.md"
+      "basename": "Arquitectura",
+      "path": "Notes/Programación/Arquitectura/Arquitectura.md"
     },
     {
-      "basename": "Plantilla Documento Code",
-      "path": "Plantillas/Plantilla Documento Code.md"
+      "basename": "All de LINQ",
+      "path": "Notes/Programación/Lenguaje/c-shart/All de LINQ.md"
     },
     {
-      "basename": "Plantilla problemática",
-      "path": "Plantillas/Plantilla problemática.md"
+      "basename": "Untitled",
+      "path": "Notes/Programación/Fundamentos/Untitled.md"
     },
     {
-      "basename": "Java",
-      "path": "Notes/Programación/Lenguaje/Java/Java.md"
+      "basename": "Vista Formulario",
+      "path": "Seguridad/Vista Formulario.md"
     },
     {
-      "basename": "Estructuras de controles",
-      "path": "Notes/Programación/Lenguaje/c-shart/Estructuras de controles.md"
+      "basename": "P-Auditoria-Seguridad",
+      "path": "Seguridad/P-Auditoria-Seguridad.md"
     },
     {
-      "basename": "Asincronía y concurrencia",
-      "path": "Notes/Programación/Lenguaje/c-shart/Asincronía y concurrencia.md"
+      "basename": "simple pantalla",
+      "path": "simple pantalla.svg"
     },
     {
-      "basename": "Espacios y estructura del lenguaje",
-      "path": "Notes/Programación/Lenguaje/c-shart/Espacios y estructura del lenguaje.md"
+      "basename": "Diagrama bdd",
+      "path": "Seguridad/Diagrama bdd.md"
     },
     {
-      "basename": "Funciones y Métodos",
-      "path": "Notes/Programación/Lenguaje/c-shart/Funciones y Métodos.md"
-    },
-    {
-      "basename": "POO",
-      "path": "Notes/Programación/Lenguaje/c-shart/POO.md"
+      "basename": "Borradores - Dibujados - Diagramas",
+      "path": "Seguridad/Borradores - Dibujados - Diagramas.md"
     }
   ],
   "omittedPaths": [],

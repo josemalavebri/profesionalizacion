@@ -1,6 +1,6 @@
 ---
-sr-due: 2025-08-04
-sr-interval: 8
+sr-due: 2025-09-16
+sr-interval: 33
 sr-ease: 250
 ---
 
@@ -42,3 +42,4 @@ Console.WriteLine($"Buscar en HashSet: {encontradoEnHashSet}, tiempo: {sw.Elapse
 - El `HashSet` elimina duplicados automáticamente al construirlo y su búsqueda es mucho más rápida gracias a su estructura basada en _hashing_.
     
 - Los tiempos (`ElapsedTicks`) ilustran que `HashSet.Contains` es generalmente más eficiente que `Array.Exists`
+[[Comp]]

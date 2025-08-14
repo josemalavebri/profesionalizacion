@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "    path:Seguridad   ",
+  "search": "path:Notes/Programación/Angular  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -39,6 +39,6 @@
   "repelStrength": 7.60416666666667,
   "linkStrength": 0.848958333333333,
   "linkDistance": 123,
-  "scale": 0.7982654740411471,
+  "scale": 1.4793183848125928,
   "close": false
 }

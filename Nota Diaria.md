@@ -1,7 +1,6 @@
+
 ## Importar el archivo de Comandos en VSC
 + [[Comandos de vsc]]
-## Nuevo review
-+ Difícil - `alt + 1`
-+ Bien - `alt + 2`
-+ Fácil - `alt + 3`
-
+## Cambios de documento
++ Nueva plantilla para los documentos de lectura
+	+ Estos tienen que ser mas cortos y concisos exponiendo uno o mas temas para leer son mas "faciles" ya que no tienes que estudiarlos solo leerlos y procesarlos

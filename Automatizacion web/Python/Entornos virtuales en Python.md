@@ -4,7 +4,7 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-#tipo-documento #review  
+#tipo-documento 
 ## Esencia semántica
 + Los entornos virtuales en Python 
 	+ son espacios aislados donde

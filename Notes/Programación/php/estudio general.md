@@ -4,7 +4,6 @@ sr-interval: 4
 sr-ease: 270
 ---
 
-#review 
 + Estudiarlo siempre en dificil para repasar constantemente
 ```php
 //funciones

@@ -4,11 +4,11 @@
   "baseFontSize": 15,
   "showViewHeader": true,
   "theme": "obsidian",
-  "textFontFamily": "Fira Sans,Fira Sans Four,Helvetica,Helvetica Rounded,Roboto",
+  "textFontFamily": "Roboto",
   "interfaceFontFamily": "Roboto",
   "accentColor": "#f953bc",
-  "showRibbon": false,
+  "showRibbon": true,
   "nativeMenus": false,
   "enabledCssSnippets": [],
-  "monospaceFontFamily": "FiraCode Nerd Font Mono"
+  "monospaceFontFamily": "Roboto"
 }

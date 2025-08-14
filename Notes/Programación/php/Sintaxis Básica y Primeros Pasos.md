@@ -1,7 +1,7 @@
 ---
-sr-due: 2025-08-04
-sr-interval: 3
-sr-ease: 130
+sr-due: 2025-09-07
+sr-interval: 24
+sr-ease: 150
 ---
 
 #tipo-documento #review  
