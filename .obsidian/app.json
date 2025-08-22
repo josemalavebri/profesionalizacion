@@ -19,7 +19,7 @@
   "showLineNumber": false,
   "showIndentGuide": true,
   "strictLineBreaks": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "showInlineTitle": false,
   "livePreview": true
 }

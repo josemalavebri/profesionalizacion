@@ -1,1 +1,2 @@
+[[Conocimientos varios]]
 Usar estructuras como `HashSet` permite validaciones de pertenencia (`Contains`) rápidas, ideales para sistemas de roles, etiquetas, categorías o cualquier lógica basada en conjuntos no duplicados.

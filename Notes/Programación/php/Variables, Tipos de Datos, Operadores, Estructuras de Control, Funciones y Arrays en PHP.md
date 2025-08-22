@@ -4,7 +4,6 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-#tipo-documento 
 ## Puntos clave
 **Variables y constantes**
 - Toda variable comienza con `$`.

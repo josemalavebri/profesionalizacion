@@ -3,10 +3,8 @@ sr-due: 2025-09-11
 sr-interval: 29
 sr-ease: 250
 ---
-
-
-
-#tipo-documento #review  
+[[Conocimientos varios]]
+ #review  
 ## Esencia semántica
 + Permitir que un método reciba un número variable de 
 	+ argumentos

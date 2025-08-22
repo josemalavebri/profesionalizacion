@@ -5,5 +5,5 @@
 - [[Ciclo de Vida de Componentes]]
 - [[Data Binding en Angular]]
 - [[Templates y Sintaxis Angular]]
-- [Estructura de una aplicación angular]]
+- [[Estructura de una aplicación angular]]
 + [[Plataforma estructural de angular]]

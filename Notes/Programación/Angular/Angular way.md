@@ -1,24 +1,11 @@
 ---
-sr-due: 2025-08-15
-sr-interval: 1
-sr-ease: 210
+sr-due: 2025-08-28
+sr-interval: 9
+sr-ease: 230
 ---
-
-#tipo-documento #review  #lectura
+#review  
 
 En Angular, cuando se habla de “Angular Way” se refiere a **hacer las cosas siguiendo la filosofía y las buenas prácticas propias de Angular**, en lugar de implementar soluciones “a la antigua” o copiadas de otros frameworks. Es una forma de decir: “hazlo como Angular espera que lo hagas”.
-
-Algunos puntos clave del Angular Way:
-- **Componentes y modularidad**: 
-	- separar la UI en componentes pequeños y reutilizables. Cada componente tiene su TS (lógica), HTML (vista) y CSS (estilo). Esto mantiene el código limpio y mantenible.
-- **Data binding y directivas**: 
-	- usar correctamente `@Input`, `@Output`, `ngModel`, `ngIf`, `ngFor` en lugar de manipular el DOM manualmente.
-- **Servicios e inyección de dependencias**: 
-	- lógica compartida y acceso a datos se hace mediante servicios, no dentro de los componentes directamente.
-- **Reactive forms y observables**: 
-	- para formularios y flujos de datos, usar `ReactiveFormsModule` y `RxJS` en lugar de manejar datos manualmente o con jQuery.
-- **Routing y lazy loading**: 
-	- usar el router de Angular para navegar entre vistas y cargar módulos bajo demanda.
 ## Lista de recomendaciones del tipo angular way
 - Separar la lógica en **componentes** pequeños y reutilizables.
 - Mantener la **vista (HTML)**, la **lógica (TS)** y el **estilo (CSS/SCSS)** separados.

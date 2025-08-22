@@ -12,8 +12,8 @@ sr-ease: 150
 	- ¿Estamos trayendo más datos de los necesarios?
 	- ¿Qué pasaría con este código si hay millones de registros
 ### Ejemplo:
-Si una función exporta usuarios _premium_, pero se hace un `getAllUsers()` de toda la base de datos… ¿no sería mejor filtrar en la consulta y solo obtener los necesarios?
-> El _senior_ debe pensar en **eficiencia**, **memoria**, **performance** y uso real del sistema en producción
++ Si una función exporta usuarios _premium_, pero se hace un `getAllUsers()` de toda la base de datos… ¿no sería mejor filtrar en la consulta y solo obtener los necesarios?  
+>  El _senior_ debe pensar en **eficiencia**, **memoria**, **performance** y uso real del sistema en producción
 ---
 
 ## Detectar bombas de relojería en el código
@@ -36,6 +36,9 @@ Un código que funciona no siempre es un buen código. El objetivo es que ademá
 
 ---
 ## Tareas para mejorar la lógica al inspeccionar un Pr
-- **Pregunta el "por qué"**: ¿Es esta la mejor solución? ¿Qué otras opciones hay?
-- **Busca las bombas de relojería**: ¿Qué pasaría si algo cambia?
-- **Ten visión arquitectónica**: ¿Este código respeta la arquitectura global?
+- **Pregunta el "por qué"**: 
+	- ¿Es esta la mejor solución? ¿Qué otras opciones hay?
+- **Busca las bombas de relojería**: 
+	- ¿Qué pasaría si algo cambia?
+- **Ten visión arquitectónica**: 
+	- ¿Este código respeta la arquitectura global?

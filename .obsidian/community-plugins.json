@@ -16,11 +16,16 @@
   "obsidian-git",
   "obsidian-spaced-repetition",
   "obsidian-outliner",
-  "recent-files-obsidian",
   "bookmarks-caller",
   "file-explorer-plus",
   "heading-level-indent",
   "mousewheel-image-zoom",
   "oz-clear-unused-images",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "recent-files-obsidian",
+  "obsidian-linter",
+  "mermaid-tools",
+  "mermaid-themes",
+  "slides-extended",
+  "obsidian-mind-map"
 ]

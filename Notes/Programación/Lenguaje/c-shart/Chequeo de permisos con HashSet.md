@@ -1,1 +1,2 @@
+[[Conocimientos varios]]
 Estrategia en la que se define un conjunto de permisos actuales (`HashSet`) y se comparan contra un conjunto de permisos requeridos, usando `All` para asegurar que todos estén presentes. Representa una validación completa de roles o accesos.

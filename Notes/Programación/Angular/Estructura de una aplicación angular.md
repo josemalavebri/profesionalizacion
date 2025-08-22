@@ -1,10 +1,9 @@
 ---
-sr-due: 2025-08-17
-sr-interval: 3
-sr-ease: 210
+sr-due: 2025-09-03
+sr-interval: 15
+sr-ease: 230
 ---
-
-#tipo-documento #review  #lectura
+#review  
 ## Módulos (`NgModule`)**
 - Cada app Angular tiene un módulo raíz
 	-  (`AppModule`).
@@ -18,14 +17,14 @@ sr-ease: 210
 		- (`AppRoutingModule`).
 - Soportan **lazy loading**, cargando módulos solo cuando se necesitan para optimizar rendimiento.
 ## Componentes (`Component`)**
-- Son la unidad de construcción de la UI. Cada componente tiene:
-    - **Template (HTML):** 
-        - define la estructura visual.
-    - **Style (CSS/SCSS):** 
-        - define la apariencia.
-    - **Class (TypeScript):**
-        -  contiene la lógica, propiedades y métodos.
 - Se comunican con otros componentes mediante:
+    - Son la unidad de construcción de la UI. Cada componente tiene:
+        - **Template (HTML):** 
+            - define la estructura visual.
+        - **Style (CSS/SCSS):** 
+            - define la apariencia.
+        - **Class (TypeScript):**
+            -  contiene la lógica, propiedades y métodos.
     - **@Input():** 
         - recibe datos desde un componente padre.
     - **@Output():**

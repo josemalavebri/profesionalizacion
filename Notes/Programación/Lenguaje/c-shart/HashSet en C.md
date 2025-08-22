@@ -1,2 +1,3 @@
+[[Conocimientos varios]]
 + Estructura de colección que almacena elementos únicos sin orden. Es altamente eficiente para búsquedas, ya que internamente usa una tabla hash. 
 + Ideal para verificar si un elemento existe sin permitir duplicados. Su método `Contains()` permite validar si un valor está presente.

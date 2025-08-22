@@ -7,7 +7,7 @@
   "textFontFamily": "Roboto",
   "interfaceFontFamily": "Roboto",
   "accentColor": "#f953bc",
-  "showRibbon": true,
+  "showRibbon": false,
   "nativeMenus": false,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Roboto"

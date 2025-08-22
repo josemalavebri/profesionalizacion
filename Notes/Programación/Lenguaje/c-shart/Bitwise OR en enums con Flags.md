@@ -1,3 +1,4 @@
+[[Conocimientos varios]]
 - El operador `|` combina múltiples valores de un enum marcado con `[Flags]`.
 - Ejemplo:  
 ```csharp

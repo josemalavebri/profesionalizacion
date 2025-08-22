@@ -1,5 +1,5 @@
 - [[Clases]]
-- [[Objetos]]
+- [[Objetos en php]]
 - [[Constructores]]
 - [[Encapsulamiento]]
 - [[Propiedades]]

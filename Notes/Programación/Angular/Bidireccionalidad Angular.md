@@ -1,10 +1,9 @@
 ---
-sr-due: 2025-08-15
-sr-interval: 1
-sr-ease: 230
+sr-due: 2025-09-10
+sr-interval: 19
+sr-ease: 250
 ---
-
-#tipo-documento #review  
+ #review  
 ## Esencia semántica
 + La bidireccionalidad en Angular se refiere a la capacidad de 
 	+ sincronizar automáticamente datos entre 
@@ -16,7 +15,7 @@ sr-ease: 230
 + Este mecanismo se conoce como 
 	+ **two-way data binding**.
 ## Puntos clave
-- Permite que los datos fluyan en **dos direcciones**: 
+- Permite que los datos fluyan en **dos direcciones**, estas direcciones son: 
 	- del componente a la vista y de la vista al componente.
 - Facilita la interacción con formularios y elementos del 
 	- DOM de manera reactiva.
@@ -30,8 +29,8 @@ sr-ease: 230
 
 
 ## Características
-- Angular detecta cambios y actualiza la vista o el modelo según corresponda.
-	- Automática:
+- Angular detecta cambios y actualiza la vista o el modelo según corresponda, por ende esto es:.
+	- Automático:
 - Se usa principalmente a través de la directiva `ngModel`.
 	- Integrada
 - `ngModel` permite mantener estados como `valid`, `dirty`, `pristine` para formularios.

@@ -1,1 +1,4 @@
-#tipo-documento #review  #lectura
+## Propiedades
+**Tema General**:
+**Etiquetas**: #review  
+**Enlaces**: 

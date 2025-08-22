@@ -1,4 +1,8 @@
-+  [[Fundamentos básicos de tipos y almacenamiento]]
+## Fundamentos básicos de tipos y almacenamiento]]
++ [[Java - Tipos de datos]]
+- [[Conversión de tipos]]>
+- [[Constantes]]
+- [[Variables]]
 + [[Operadores]]
 + [[Estructuras de controles]]
 + [[Funciones y Métodos]]

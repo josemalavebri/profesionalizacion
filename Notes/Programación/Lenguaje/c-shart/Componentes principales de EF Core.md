@@ -1,6 +1,6 @@
 - [[DbContext]]
 - [[DbSet]]
-- [[LINQ (para consultas)]]
+- [[LINQ]]
 - [[Change Tracker]]
 - [[DbContextOptions y configuración avanzada]]
 - [[Entidades y proxies]]

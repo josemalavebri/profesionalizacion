@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92b2d6576fb391e4",
+        "id": "112bcfba22ac44fa",
         "type": "tabs",
         "children": [
           {
-            "id": "91001343aae5c5dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "b893f6700a4c4dac",
+            "id": "dbc9266f60e7e9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programación/Angular/Estructura de una aplicación angular.md",
+                "file": "Nota Diaria.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Estructura de una aplicación angular"
-            }
-          },
-          {
-            "id": "de4c7e504a1f5961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programación/Angular/Estructura de una aplicación angular.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Estructura de una aplicación angular"
-            }
-          },
-          {
-            "id": "cdb172a01b376442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Programación/Angular/Directivas Angular.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Directivas Angular"
+              "title": "Nota Diaria"
             }
           }
         ]
@@ -74,18 +34,8 @@
       {
         "id": "1a45956232e7e014",
         "type": "tabs",
-        "dimension": 66.57458563535911,
+        "dimension": 69.51219512195122,
         "children": [
-          {
-            "id": "2b5276367069f476",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Cola de notas a revisar"
-            }
-          },
           {
             "id": "8372e0802167193c",
             "type": "leaf",
@@ -100,7 +50,17 @@
             }
           },
           {
-            "id": "283cda37733127ed",
+            "id": "448339eef08514a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "b60be56f75232639",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -112,29 +72,30 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
-            "id": "448339eef08514a4",
+            "id": "2b5276367069f476",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "62274a0ab33054ac",
+        "id": "bf2239f7c4cc4e80",
         "type": "tabs",
-        "dimension": 33.42541436464088,
+        "dimension": 30.48780487804878,
         "children": [
           {
-            "id": "4a7d04aa0c701bf9",
+            "id": "a5e14141b4bb76c4",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -147,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 301.5
   },
   "right": {
     "id": "83874aa21cfa0e2d",
@@ -163,7 +124,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Notes/bdd/Modelo conceptual.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -172,10 +134,21 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Modelo conceptual"
+            }
+          },
+          {
+            "id": "d80da5d777fb6941",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b5daa11e56c2deea",
@@ -187,22 +160,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/bdd/Modelo conceptual.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Modelo conceptual"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -217,58 +192,60 @@
       "dashboard-navigator:Open dashboard navigator": false,
       "obsidian-git:Open Git source control": false,
       "bookmarks-caller:Open bookmarks caller": false,
-      "bookmarks-caller:Search bookmarks": false
+      "bookmarks-caller:Search bookmarks": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "slides-extended:Show slide preview": false
     }
   },
-  "active": "91001343aae5c5dc",
+  "active": "dbc9266f60e7e9d8",
   "lastOpenFiles": [
-    "Notes/Programación/Angular/Fundamentos de Angular.md",
-    "Notes/Programación/Angular/Angular.md",
-    "Notes/Programación/Angular/Estructura de una aplicación angular.md",
-    "Notes/Programación/Angular/Directivas Angular.md",
-    "Notes/Programación/Angular/Ciclo de Vida de Componentes.md",
-    "Notes/Programación/Arquitectura/Ubicación de la lógica de filtrado en SP vs. capa de servicio.md",
-    "Notes/Programación/Angular/Que son las directivas.md",
-    "Notes/Programación/Angular/Framework Angular.md",
-    "Notes/Programación/Angular/Herramientas Angular.md",
-    "Notes/Programación/Fundamentos/Las 3 Claves que Ignoran los Juniors al Hacer Code Reviews.md",
-    "Notes/Programación/Angular/Angular way.md",
     "Notes/Programación/Lenguaje/c-shart/Comparativa de eficiencia en búsquedas HashSet vs List.md",
-    "Notes/Programación/Angular/Standalone.md",
-    "Notes/Programación/Angular/Standalone vs módulos.md",
-    "Plantillas/Plantilla Documento.md",
-    "Notes/Programación/Angular/Varios - angular.md",
-    "Nota Diaria.md",
-    "Plantillas/Plantilla Lectura.md",
-    "Notes/Programación/Angular/Data Binding en Angular.md",
-    "Notes/Programación/Angular/MVVM en angular.md",
     "Notes/Programación/Angular/Bidireccionalidad Angular.md",
-    "Notes/Programación/Angular/Arquitectura de componentes.md",
-    "Notes/Programación/php/estudio general.md",
-    "Seguridad/Requerimientos generales - Corregir.md",
-    "Notes/Programación/php/Variables, Tipos de Datos, Operadores, Estructuras de Control, Funciones y Arrays en PHP.md",
-    "Automatizacion web/Python/Entornos virtuales en Python.md",
-    "Notes/Programación/Arquitectura",
-    "2025-08-03-0732.excalidraw.crswap",
-    "2025-08-03-0732.excalidraw",
-    "Seguridad/ANEXOS/Pasted image 20250807070638.png",
-    "simple pantalla.svg",
-    "Seguridad/ANEXOS/Pasted image 20250807065346.png",
-    "Seguridad/ANEXOS/Pasted image 20250807065126.png",
-    "Seguridad/ANEXOS/Pasted image 20250807064941.png",
-    "Seguridad/ANEXOS/Pasted image 20250807064345.png",
-    "Seguridad/ANEXOS/Pasted image 20250804084752.png",
-    "Seguridad/ANEXOS/Pasted image 20250804084645.png",
-    "Seguridad/ANEXOS/Pasted image 20250804084534.png",
-    "Seguridad/ANEXOS/Pasted image 20250804084429.png",
+    "Nota Diaria.md",
+    "Notes/Sin Orden/Puertos y Canales de Comunicación en Redes.md",
+    "Notes/Sin Orden/Sin Orden Especifico.md",
+    "Notes/Sin orden.md",
+    "Notes/Sin Orden",
+    "Plantillas/Plantilla Documento Code.md",
+    "Plantillas/Sin título.md",
+    "Plantillas/Plantilla Lectura.md",
+    "Notes/Programación/Lenguaje/c-shart/Conocimientos varios.md",
+    "Notes/Programación/Lenguaje/c-shart/Colecciones eficientes para validación.md",
+    "Notes/Programación/Lenguaje/c-shart/Métodos con argumentos variables.md",
+    "Notes/bdd/Modelo Físico de Datos.md",
+    "Notes/Diagramas/Diagramas.md",
+    "Notes/Programación/Lenguaje/c-shart/Chequeo de permisos con HashSet.md",
+    "Notes/Programación/Lenguaje/c-shart/Diferencia entre HashSet y Array.md",
+    "Notes/Programación/Lenguaje/c-shart/All de LINQ.md",
+    "Notes/Programación/Lenguaje/c-shart/Expresión lambda en LINQ.md",
+    "Notes/Programación/Lenguaje/c-shart/Método Contains en colecciones.md",
+    "Notes/Programación/Lenguaje/c-shart/Parámetro params en C-shart.md",
+    "Notes/Programación/Lenguaje/c-shart/HashSet en C.md",
+    "Notes/Programación/Lenguaje/c-shart/Validación de pertenencia con All y Contains.md",
+    "Notes/Programación/Lenguaje/c-shart/Bitwise OR en enums con Flags.md",
+    "Notes/Programación/Lenguaje/c-shart/Buenas prácticas en nombramiento de clases.md",
+    "Notes/Programación/Lenguaje/c-shart/DateTime vs TimeSpan en C.md",
+    "Notes/Programación/Lenguaje/c-shart/Enum con Flags en C.md",
+    "Notes/bdd/Modelo conceptual.007.png",
+    "Notes/bdd/Modelo conceptual.006.png",
+    "Notes/bdd/Modelo conceptual.005.png",
+    "Notes/bdd/Modelo conceptual.004.png",
+    "Notes/bdd/Modelo conceptual.003.png",
+    "Notes/bdd/Modelo conceptual.002.png",
+    "Notes/bdd/Modelo conceptual.001.png",
+    "Notes/bdd/Modelo conceptual.pdf",
+    "Notes/bdd/Modelo conceptual.pptx",
+    "Notes/bdd/Modelo conceptual.html",
+    "Notes/bdd",
+    "Notes/Diagramas",
+    "Notes/Programación/Lenguaje/c-shart/LINQ",
+    "Laboratorios",
+    "Sin orden",
     "Busquedas/Lenguajes/c-shart - busqueda.canvas",
-    "Flujo de la aplicacion - Excalidraw.excalidraw.crswap",
-    "Untitled-2025-07-14-1319.excalidraw.crswap",
-    "Untitled-2025-07-14-1319.excalidraw",
-    "Flujo de la aplicacion - Excalidraw.excalidraw",
-    "25/07",
-    "25",
-    "Seguridad/ANEXOS",
+    "Notes/Programación/Arquitectura",
+    "Notes/Seguridad/ANEXOS/Pasted image 20250807070638.png",
+    "Sin orden/simple pantalla.svg",
+    "Notes/Seguridad/ANEXOS/Pasted image 20250807065346.png",
     "Estudios.canvas",
     "Sin Orden/Sin título.canvas",
     "Programacion/Sin título.canvas",

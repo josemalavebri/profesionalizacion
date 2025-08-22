@@ -5,10 +5,10 @@ sr-ease: 250
 ---
 
 
-#tipo-documento #review  
+ #review  
 ## Esencia semántica
 
-PHP es un lenguaje de programación del lado servidor que se ejecuta dentro de un servidor web como Apache. 
+PHP es un lenguaje de [[programación]] del lado servidor que se ejecuta dentro de un servidor web como Apache. 
 
 Apache sirve los archivos y pasa los scripts PHP para que sean procesados. PHP puede conectarse a bases de datos MySQL para manipular datos. XAMPP es un paquete que instala Apache, PHP y MySQL preconfigurados para desarrollo local. 
 

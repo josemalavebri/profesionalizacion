@@ -1,5 +1,5 @@
 {
-  "port": "3000",
+  "port": "5000",
   "autoReload": true,
   "autoStart": true,
   "exportDirectory": "/export",
@@ -13,11 +13,11 @@
   "transition": "slide",
   "transitionSpeed": "slow",
   "controls": false,
-  "progress": false,
+  "progress": true,
   "slideNumber": true,
   "showGrid": false,
   "autoComplete": "inPreview",
-  "paneMode": "sidebar",
+  "paneMode": "tab",
   "themeDirectory": "",
-  "center": false
+  "center": true
 }

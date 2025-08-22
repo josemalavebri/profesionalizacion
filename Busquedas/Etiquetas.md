@@ -53,3 +53,12 @@ for (let tipo of Object.keys(grupos).sort()) {
 
 ```
 
+```dataviewjs
+let pages = dv.pages("#noEstructurado");
+
+// Muestra en una tabla los resultados
+dv.table(
+  ["Archivo", "Etiquetas"],
+  pages.map(p => [p.file.link, p.file.etags])
+);
+```

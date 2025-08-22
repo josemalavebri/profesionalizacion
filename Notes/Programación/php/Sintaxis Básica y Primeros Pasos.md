@@ -4,8 +4,7 @@ sr-interval: 24
 sr-ease: 150
 ---
 
-#tipo-documento #review  
-
+ #review  
 ## Puntos clave
 - Todo código PHP se encierra entre `<?php` y `?>`.
 - Las variables inician con `$` y no necesitan declaración de tipo.

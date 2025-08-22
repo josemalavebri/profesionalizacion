@@ -1,13 +1,17 @@
 ---
-sr-due: 2025-08-15
-sr-interval: 1
+sr-due: 2025-08-19
+sr-interval: 3
 sr-ease: 230
+aliases:
 ---
+#review   #bdd/modelado 
+
+## Propiedades
+**Tema General**: [[Estructuras de datos]] y complejidad algorítmica
+**Etiquetas**: #review #cshart 
+**Enlaces**: 
 
 
-#tipo-documento #review #lectura  
-
-**Tema general:** Estructuras de datos y complejidad algorítmica
 ## Esencia semántica
 
 + El `HashSet` es una estructura de datos optimizada para realizar búsquedas rápidas mediante el uso de funciones hash
@@ -47,3 +51,5 @@ sr-ease: 230
     - Promedio: 2 comparaciones por búsqueda → 0.01 segundos aprox.
 
 La diferencia en este caso es de unas **250 veces más rápido** a favor del `HashSet`.
+
+[[]]

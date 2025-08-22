@@ -1,3 +1,4 @@
+[[Conocimientos varios]]
 - `DateTime` representa una fecha y hora completas.
 - Si solo necesitas la hora (ej. 9:00 AM), puedes usar `DateTime.Today.AddHours(9)`.
 - Para representar solo una hora sin fecha, lo ideal es usar `TimeSpan` (ej: `new TimeSpan(9, 0, 0)`).

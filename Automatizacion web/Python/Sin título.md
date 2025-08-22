@@ -1,1 +1,0 @@
-[[Entornos virtuales en Python]]

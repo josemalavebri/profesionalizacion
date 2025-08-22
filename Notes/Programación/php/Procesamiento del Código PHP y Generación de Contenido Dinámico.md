@@ -4,7 +4,6 @@ sr-interval: 5
 sr-ease: 230
 ---
 
-#tipo-documento 
 ## Esencia semántica
 PHP es un lenguaje del lado del servidor que ejecuta lógica y genera contenido antes de que el navegador reciba la respuesta. 
 ## Puntos clave

@@ -1,5 +1,0 @@
-- [[Java - Tipos de datos]]
-- [[Variables]]
-- [[Constantes]]
-- [[Conversión de tipos]]
-- 

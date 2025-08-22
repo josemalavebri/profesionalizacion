@@ -1,11 +1,9 @@
 ---
-sr-due: 2025-08-15
-sr-interval: 1
-sr-ease: 130
+sr-due: 2025-08-25
+sr-interval: 6
+sr-ease: 150
 ---
-
-
-#tipo-documento #review  
+#review  
 ## Esencia semántica
 + En Angular, los **módulos (`NgModule`)** y los **componentes standalone** representan 
 	+ Dos formas de organizar y estructurar la aplicación.
@@ -13,11 +11,14 @@ sr-ease: 130
 	+ visibilidad y dependencias.
 +  Los componentes standalone son componentes independientes que **no necesitan estar dentro de un módulo**, simplificando 
 	+ la estructura y facilitando la reutilización y carga perezosa.
+---
+
 ## Puntos clave
 + Los **módulos (`NgModule`)** agrupan y encapsulan 
 	+ componente directivas, pipes y servicios.
 + Un **componente encapsulado en un módulo** solo es visible dentro de 
-	+ ese módulo, salvo que se exporte explícitamente.
+	+ ese módulo, salvo que 
+		+ se exporte explícitamente.
 - Los **componentes standalone** se declaran con
 	-  `standalone: true` 
 - Los componentes standalone pueden importar directamente
@@ -26,6 +27,8 @@ sr-ease: 130
 	-  `AppModule`, usando `bootstrapApplication`.
 - Modularización clásica protege y organiza el código; los standalone facilitan 
 	- reutilización y simplificación de la estructura.
+---
+
 ## Características
 - contenedor, organiza y encapsula, controla exportaciones, depende de la declaración explícita de componentes.
 	- módulo
@@ -53,7 +56,7 @@ import { CommonModule } from '@angular/common';
 export class EjemploComponent {}
 
 ```
-### Uso
+### NgModule
 ```ts
 @NgModule({
   declarations: [ComponenteA, ComponenteB],

@@ -1,1 +1,2 @@
+[[Conocimientos varios]]
 Método usado para verificar si una colección contiene un elemento específico. `HashSet` y `List` lo tienen, pero también puedes usarlo con arrays gracias a los métodos de extensión de LINQ. Es más rápido en `HashSet` por su estructura de tabla hash.

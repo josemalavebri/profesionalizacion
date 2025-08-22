@@ -1,13 +1,12 @@
 #tipo-problematica  #review 
+
+**Tema General**: 
 ## Puntos clave
 
----
 ## Características
 
----
 ## Analogía
 > *analogía*
----
 
 ## Problema:
 `excepcion`

@@ -30,7 +30,7 @@
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
-    "maxNDaysNotesReviewQueue": 365,
+    "maxNDaysNotesReviewQueue": 1,
     "showRibbonIcon": true,
     "showStatusBar": true,
     "initiallyExpandAllSubdecksInTree": false,

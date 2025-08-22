@@ -42,7 +42,5 @@
   "Plantillas/Plantilla problemática.md": "LiNewspaper",
   "Notes": "LiCode",
   "Busquedas/Lenguajes": "LiCodeXml",
-  "Plantillas/Plantilla Documento.md": "LiFile",
-  "Plantillas/Plantilla Documento Code.md": "LiFileCode",
-  "Seguridad": "LiFileBadge"
+  "Plantillas/Plantilla Documento Code.md": "LiFileCode"
 }
